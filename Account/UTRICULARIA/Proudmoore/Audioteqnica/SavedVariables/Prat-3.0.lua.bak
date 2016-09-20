@@ -1,0 +1,384 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1471986397,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[13:55:05]|r|c00000000|r Quest accepted: Rascals", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[13:55:14]|r|c00000000|r Quest accepted: Still Good!", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[13:55:50]|r|c00000000|r Discovered Teeming Burrow: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[13:56:33]|r|c00000000|r Discovered Virmen Grotto: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[13:57:21]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Medorous-Bladefist:1596:CHANNEL:1|h|cffc69b6dMedorous|r-|cffd58a45Bla|r|h|cffd8d8d8]|r: Aysa is so sexy", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[13:57:30]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Weifey-Hyjal:1598:CHANNEL:1|h|cff8b8b8b1|r:|cff00ff96Weifey|r-|cff79efccHyj|r|h|cffd8d8d8]|r: furry", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[13:57:37]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Almara-Windrunner:1601:CHANNEL:1|h|cff0070ddAlmara|r-|cffd38e4dWin|r|h|cffd8d8d8]|r: Beastiality?", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[13:57:50]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Almara-Windrunner:1606:CHANNEL:1|h|cff0070ddAlmara|r-|cffd38e4dWin|r|h|cffd8d8d8]|r: Sick sick moo cow", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[13:58:42]|r|c00000000|r Rascals completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[13:58:42]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[13:58:42]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[13:58:49]|r|c00000000|r Still Good! completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[13:58:49]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[13:58:49]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[13:58:52]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Medorous-Bladefist:1620:CHANNEL:1|h|cffc69b6dMedorous|r-|cffd58a45Bla|r|h|cffd8d8d8]|r: Technically she's a humanoid", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[13:58:58]|r|c00000000|r Quest accepted: Stronger Than Wood", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[13:59:04]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Weifey-Hyjal:1622:CHANNEL:1|h|cff8b8b8b1|r:|cff00ff96Weifey|r-|cff79efccHyj|r|h|cffd8d8d8]|r: furry", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[13:59:12]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Mercmerc-Hyjal:1623:CHANNEL:1|h|cfffff468Mercmerc|r-|cff79efccHyj|r|h|cffd8d8d8]|r: uber furry XD", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[13:59:21]|r|c00000000|r Quest accepted: Missing Mallet", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[14:00:06]|r|c00000000|r Discovered Ki-Han Brewery: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[14:01:10]|r|c00000000|r Stronger Than Wood completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[14:01:10]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[14:01:10]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[14:01:10]|r|c00000000|r You are now Honored with Shang Xi's Academy.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[14:01:17]|r|c00000000|r Missing Mallet completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [25]
+			{
+				"|cff979797[14:01:17]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [26]
+			{
+				"|cff979797[14:01:17]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [27]
+			{
+				"|cff979797[14:01:18]|r|c00000000|r Quest accepted: Raucous Rousing", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [28]
+			{
+				"|cff979797[14:01:22]|r|c00000000|r Raucous Rousing completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [29]
+			{
+				"|cff979797[14:01:22]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [30]
+			{
+				"|cff979797[14:01:22]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [31]
+			{
+				"|cff979797[14:01:24]|r|c00000000|r Quest accepted: Not In the Face!", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [32]
+			{
+				"|cff979797[14:01:55]|r|c00000000|r Not In the Face! completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [33]
+			{
+				"|cff979797[14:01:55]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [34]
+			{
+				"|cff979797[14:01:55]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [35]
+			{
+				"|cff979797[14:02:00]|r|c00000000|r Quest accepted: The Spirit and Body of Shen-zin Su", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [36]
+			{
+				"|cff979797[14:03:03]|r|c00000000|r Discovered Mandori Village: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [37]
+			{
+				"|cff979797[14:03:57]|r|c00000000|r The Spirit and Body of Shen-zin Su completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [38]
+			{
+				"|cff979797[14:03:57]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [39]
+			{
+				"|cff979797[14:03:57]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [40]
+			{
+				"|cff979797[14:03:59]|r|c00000000|r Quest accepted: Morning Breeze Village", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [41]
+			{
+				"|cff979797[14:04:53]|r|c00000000|r Discovered The Dawning Span: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [42]
+			{
+				"|cff979797[14:05:25]|r|c00000000|r Discovered Ridge of Laughing Winds: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [43]
+			{
+				"|cff979797[14:05:46]|r|c00000000|r Discovered Morning Breeze Village: 45 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [44]
+			{
+				"|cff979797[14:06:08]|r|c00000000|r Morning Breeze Village completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [45]
+			{
+				"|cff979797[14:06:08]|r|c00000000|r Experience gained: 906.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [46]
+			{
+				"|cff979797[14:06:08]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [47]
+			{
+				"|cff979797[14:06:10]|r|c00000000|r Quest accepted: Rewritten Wisdoms", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [48]
+			{
+				"|cff979797[14:06:29]|r|c00000000|r Quest accepted: Stronger Than Stone", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [49]
+			{
+				"|cff979797[14:06:37]|r|c00000000|r Quest accepted: Tools of the Enemy", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [50]
+		},
+	},
+}

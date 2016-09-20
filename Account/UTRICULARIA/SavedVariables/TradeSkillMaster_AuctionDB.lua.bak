@@ -1,0 +1,35 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["r@Proudmoore@lastSaveTime"] = 0,
+	["g@ @showAHTab"] = true,
+	["r@Proudmoore@scanData"] = "",
+	["_scopeKeys"] = {
+		["char"] = {
+			"Guayaki - Proudmoore", -- [1]
+		},
+		["realm"] = {
+			"Proudmoore", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["auction"] = true,
+	},
+	["r@Proudmoore@lastPartialScan"] = 0,
+	["g@ @scanDataEU"] = "",
+	["g@ @scanDataUS"] = "",
+	["_hash"] = 6312798,
+	["g@ @lastUpdateEU"] = 0,
+	["g@ @lastUpdateUS"] = 0,
+	["r@Proudmoore@hasAppData"] = true,
+	["r@Proudmoore@lastCompleteScan"] = 0,
+	["_version"] = 2,
+	["_currentProfile"] = {
+		["Guayaki - Proudmoore"] = "Default",
+	},
+}

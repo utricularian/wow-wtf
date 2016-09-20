@@ -1,0 +1,26 @@
+MACRO 6 "asd" Ability_Creature_Cursed_03
+/rw G1 BACK OUT
+END
+MACRO 7 "asda" Ability_Creature_Disease_04
+/rw G2 BACK OUT
+END
+MACRO 2 "Gather/Mine" Ability_Ambush
+/castsequence Find Herbs, Find Minerals
+END
+MACRO 1 "Mounted" INV_Misc_QuestionMark
+/script ChatFrame1:AddMessage(string.join(" ", "|cFF33FF99Mounted|r:", 'You should really change the combat macro to something more usefull!'))
+END
+MACRO 3 "Skull" INV_Misc_QuestionMark
+/run SetRaidTarget("mouseover", 1)
+END
+MACRO 5 "timelost" Ability_Creature_Cursed_04
+/tar Time-lo
+END
+MACRO 8 "turkey" Ability_Creature_Cursed_02
+/target Wild Turkey
+END
+MACRO 4 "vent" Ability_Creature_Poison_01
+/ra Hostname: hula.zebvoice.com
+/ra Port: 4275
+/ra Pass: hula4life
+END

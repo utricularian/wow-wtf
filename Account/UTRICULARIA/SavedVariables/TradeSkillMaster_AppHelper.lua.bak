@@ -1,0 +1,20 @@
+
+TradeSkillMaster_AppHelperDB = {
+	["blackMarket"] = {
+	},
+	["analytics"] = {
+		["data"] = {
+			"[\"Auctioning\",\"POST_GROUP_START\",\"v3.0.13\",\"\",1473127648]", -- [1]
+			"[\"Auctioning\",\"POST_GROUP_START\",\"v3.0.13\",\"\",1473127666]", -- [2]
+		},
+		["updateTime"] = 1473127666,
+	},
+	["wowToken"] = {
+		["US"] = {
+			["key"] = 16449959,
+			["data"] = 34148,
+			["updateTime"] = 1473127632,
+		},
+	},
+	["region"] = "US",
+}

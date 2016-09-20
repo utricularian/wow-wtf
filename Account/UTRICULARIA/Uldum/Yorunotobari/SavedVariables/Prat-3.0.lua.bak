@@ -1,0 +1,568 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1471141257,
+	["scrollback"] = {
+		["ChatFrame11"] = {
+			{
+				"|cff979797[18:00:18]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:820:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: beginning to think i should've just transfered old-kiko", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[18:00:28]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:821:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: aww", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[18:01:47]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:836:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: although most of your achieves are account-wide now", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[18:02:05]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:837:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: yeah, but now i have a 100 warrior and a 90 warrior haha", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[18:02:07]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:839:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: mostly you'd lose the old recipes", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[18:02:12]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:840:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: hehe ya", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[18:02:21]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:841:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: i have priests scattered across servers, too", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[18:03:05]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:849:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: gonna try a mage after getting this toon to 100", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[18:04:26]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:856:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: might as well", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[18:04:38]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:859:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: we have a few weeks before it comes out", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[18:05:14]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:866:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: debating if i'd rather accelerate the toons", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[18:05:28]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:870:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: $60... but that's a lot of time savd", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[18:05:35]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:872:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: true", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[18:05:43]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:876:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: wonder if they give out free boosts to employees", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[18:06:10]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:878:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: that'd be so sweet", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[18:06:42]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:880:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: prob not a good idea to keep fantasizing about the perks, though", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[18:06:45]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:881:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: lol", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[18:07:35]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:891:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: when i worked in the airlines, they were not at all understanding about employees getting stuck or delayed by flights", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[18:07:54]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:895:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: even if it was one they caused", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[18:08:00]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:896:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: that's bs", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[18:08:10]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:904:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: ya, i thought so", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[18:10:13]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:921:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: i'm so confused about the story line haha", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[18:10:24]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:923:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: ya", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[18:10:32]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:924:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: like... why is this place not the outlands?", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[18:10:38]|r|c00000000|r [W To] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:927:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: alternative universe stuff?", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				53, -- [5]
+			}, -- [25]
+			{
+				"|cff979797[18:10:43]|r|c00000000|r [W From] |cffd8d8d8[|r|HBNplayer:|Kf1|k0000000000000000|k:12:928:BN_WHISPER:|Kf1|k0000000000000000|k|h|cffa330c9|Kf1|k0000000000000000|k|r|h|cffd8d8d8]|r: easiest way my brain can wrap around it is that we went back in time in an alternate universe", -- [1]
+				0, -- [2]
+				1, -- [3]
+				0.964705944061279, -- [4]
+				52, -- [5]
+			}, -- [26]
+		},
+		["ChatFrame1"] = {
+			{
+				"|cff979797[18:56:54]|r|c00000000|r Quest accepted: Where's My Wolf?!", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[18:56:59]|r|c00000000|r Quest accepted: Karg Unchained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[18:57:38]|r|c00000000|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Gemisan-Uldum:1406:CHANNEL:5|h|cffc41e3aGemisan|r|h|cffd8d8d8]|r: joined channel.", -- [1]
+				0.533333361148834, -- [2]
+				0.443137288093567, -- [3]
+				1, -- [4]
+				71, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[19:00:05]|r|c00000000|r Where's My Wolf?! completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[19:00:05]|r|c00000000|r Experience gained: 10900.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[19:00:05]|r|c00000000|r Received 11 Gold, 80 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[19:00:14]|r|c00000000|r Quest accepted: Enfilade", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[19:00:17]|r|c00000000|r Quest accepted: The Master Siegesmith", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[19:01:03]|r|c00000000|r Discovered Hall of the Great Hunt: 1480 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[19:02:25]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Dynaxeon:1455|h|cffd84e4e100|r:|cfff48cbaDynaxeon|r|h|cffd8d8d8]|r has come online.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[19:05:55]|r|c00000000|r The Master Siegesmith completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[19:05:55]|r|c00000000|r Experience gained: 10900.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[19:05:55]|r|c00000000|r Received 11 Gold, 80 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[19:06:52]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Venditrix-Shadowsong:1502:CHANNEL:1|h|cffa330c9Venditrix|r-|cffeac215Sha|r|h|cffd8d8d8]|r: found a bug not a fun one time to die", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[19:07:51]|r|c00000000|r Enfilade completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[19:07:51]|r|c00000000|r Experience gained: 10900.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[19:07:51]|r|c00000000|r Received 11 Gold, 80 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[19:08:03]|r|c00000000|r Quest accepted: Return to the Pack", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[19:08:40]|r|c00000000|r Karg Unchained completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[19:08:40]|r|c00000000|r Experience gained: 10900.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[19:08:40]|r|c00000000|r Received 11 Gold, 80 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[19:10:43]|r|c00000000|r Quest accepted: The Land Provides", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[19:12:46]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Garrison]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[19:12:46]|r|c00000000|r |Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[19:12:46]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Garrison]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [25]
+			{
+				"|cff979797[19:12:51]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Brucegender:1581:CHANNEL:2|h|cffff7c0aBrucegender|r|h|cffd8d8d8]|r: lolol", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [26]
+			{
+				"|cff979797[19:13:03]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Brucegender-Uldum:1582:CHANNEL:2|h|cffff7c0aBrucegender|r|h|cffd8d8d8]|r: these new kids like wtf?", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [27]
+			{
+				"|cff979797[19:13:15]|r|c00000000|r Return to the Pack completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [28]
+			{
+				"|cff979797[19:13:15]|r|c00000000|r Experience gained: 1100.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [29]
+			{
+				"|cff979797[19:13:15]|r|c00000000|r Received 1 Gold, 18 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [30]
+			{
+				"|cff979797[19:13:20]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Popedemoncat:1591:CHANNEL:2|h|cffa330c9Popedemoncat|r|h|cffd8d8d8]|r: get his overcoat, i suppose...that's sitting on the second shelf, near the note she wrote", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [31]
+			{
+				"|cff979797[19:13:48]|r|c00000000|r Quest accepted: Thunderlord Invasion!", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [32]
+			{
+				"|cff979797[19:13:51]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Wouldukindly:1596:CHANNEL:2|h|cfffff468Wouldukindly|r|h|cffd8d8d8]|r: well played", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [33]
+			{
+				"|cff979797[19:14:12]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Brucegender-Uldum:1598:CHANNEL:2|h|cffff7c0aBrucegender|r|h|cffd8d8d8]|r: classic", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [34]
+			{
+				"|cff979797[19:14:56]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Popedemoncat-Uldum:1600:CHANNEL:2|h|cffa330c9Popedemoncat|r|h|cffd8d8d8]|r: somebody let pandas in", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [35]
+			{
+				"|cff979797[19:15:07]|r|c00000000|r Quest accepted: Budd's Gambit", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [36]
+			{
+				"|cff979797[19:15:47]|r|c00000000|r Quest accepted: Your First Tailoring Work Order", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [37]
+			{
+				"|cff979797[19:16:39]|r|c00000000|r Your First Tailoring Work Order completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [38]
+			{
+				"|cff979797[19:16:39]|r|c00000000|r Experience gained: 825.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [39]
+			{
+				"|cff979797[19:16:39]|r|c00000000|r Received 1 Gold, 14 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [40]
+			{
+				"|cff979797[19:17:51]|r|c00000000|r The Land Provides completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [41]
+			{
+				"|cff979797[19:17:51]|r|c00000000|r Experience gained: 8250.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [42]
+			{
+				"|cff979797[19:17:51]|r|c00000000|r Received 11 Gold, 40 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [43]
+			{
+				"|cff979797[19:18:49]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Reverendâlex-Antonidas:1620:CHANNEL:2|h|cfff48cbaReverendâlex|r-|cfffda266Ant|r|h|cffd8d8d8]|r: what out it has become a panda-mic", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [44]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r Thunderlord Invasion! failed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [45]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:1|h[1. General - Garrison]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [46]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [47]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - Garrison]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [48]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r |Hchannel:channel:5|h[5] |hGemisan Moderation privileges given to Gemisan.", -- [1]
+				0.533333361148834, -- [2]
+				0.443137288093567, -- [3]
+				1, -- [4]
+				71, -- [5]
+			}, -- [49]
+			{
+				"|cff979797[19:20:57]|r|c00000000|r |Hchannel:channel:5|h[5] |hGemisan-Uldum Owner changed to Gemisan-Uldum.", -- [1]
+				0.533333361148834, -- [2]
+				0.443137288093567, -- [3]
+				1, -- [4]
+				71, -- [5]
+			}, -- [50]
+		},
+	},
+}

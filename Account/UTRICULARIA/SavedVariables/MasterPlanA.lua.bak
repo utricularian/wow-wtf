@@ -1,0 +1,16 @@
+
+MasterPlanAG = {
+	["Proudmoore"] = {
+		["Kikoutate"] = {
+			["class"] = "WARRIOR",
+			["summary"] = {
+				["inProgress"] = {
+					[153] = 1471324508,
+					[155] = 1471324430,
+					[154] = 1471322624,
+				},
+			},
+			["faction"] = "Horde",
+		},
+	},
+}

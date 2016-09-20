@@ -1,0 +1,37 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["g@ @confirmCompleteSound"] = "TSM_CASH_REGISTER",
+	["g@ @roundNormalPrice"] = false,
+	["g@ @disableInvalidMsg"] = false,
+	["f@Horde - Proudmoore@player"] = {
+		["Guayaki"] = true,
+	},
+	["_scopeKeys"] = {
+		["char"] = {
+			"Guayaki - Proudmoore", -- [1]
+		},
+		["realm"] = {
+			"Proudmoore", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+		},
+	},
+	["g@ @priceColumn"] = 1,
+	["g@ @helpPlatesShown"] = {
+		["selection"] = true,
+	},
+	["_hash"] = 5870975,
+	["f@Horde - Proudmoore@whitelist"] = {
+	},
+	["g@ @scanCompleteSound"] = "LevelUp",
+	["g@ @matchWhitelist"] = true,
+	["g@ @cancelWithBid"] = false,
+	["_version"] = 1,
+	["_currentProfile"] = {
+		["Guayaki - Proudmoore"] = "Default",
+	},
+}

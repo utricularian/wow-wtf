@@ -1,0 +1,15 @@
+Version: 1
+Frame: LootHistoryFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 2
+Y: -121
+W: 210
+H: 175
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 65
+Y: -58
+W: 267
+H: 88

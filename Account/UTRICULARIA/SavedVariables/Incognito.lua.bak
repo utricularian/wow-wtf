@@ -1,0 +1,10 @@
+
+IncognitoDB = {
+	["profileKeys"] = {
+		["Kikoutate - Proudmoore"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

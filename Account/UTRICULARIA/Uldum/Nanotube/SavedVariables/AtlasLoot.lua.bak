@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nanotube - Uldum"] = "Nanotube - Uldum",
+	},
+	["AtlasLootVersion"] = "70703",
+}

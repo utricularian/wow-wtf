@@ -1,0 +1,665 @@
+
+TradeSkillMasterDB = {
+	["p@Default@inventoryTooltipFormat"] = "full",
+	["p@Default@tooltipPriceFormat"] = "text",
+	["g@ @customPriceSources"] = {
+	},
+	["c@Guayaki - Proudmoore@auctionPrices"] = {
+		["|cffffffff|Hitem:10285:::::::-2042013824:103:258::::::|h[Shadow Silk]|h|r"] = {
+			29796, -- [1]
+		},
+	},
+	["p@Default@detailedDestroyTooltip"] = false,
+	["p@Default@pricePerUnit"] = true,
+	["p@Default@tooltipShowModifier"] = "none",
+	["p@Default@exportSubGroups"] = false,
+	["f@Horde - Proudmoore@syncAccounts"] = {
+	},
+	["p@Default@operationTooltips"] = {
+	},
+	["f@Horde - Proudmoore@characters"] = {
+		["Guayaki"] = "PRIEST",
+	},
+	["p@Default@minimapIcon"] = {
+		["minimapPos"] = 359.999957960968,
+		["radius"] = 80,
+		["hide"] = false,
+	},
+	["p@Default@vendorBuyTooltip"] = true,
+	["g@ @auctionSaleSound"] = "TSM_NO_SOUND",
+	["p@Default@exportOperations"] = false,
+	["g@ @pendingAddonUpdate"] = {
+	},
+	["g@ @locale"] = "enUS",
+	["g@ @infoMessagesShown"] = {
+		["resetDesign"] = true,
+	},
+	["p@Default@defaultGroupTab"] = 2,
+	["f@Horde - Proudmoore@bankUIGBankFramePosition"] = {
+		100, -- [1]
+		300, -- [2]
+	},
+	["p@Default@protectAH"] = false,
+	["f@Horde - Proudmoore@bankUIBankFramePosition"] = {
+		100, -- [1]
+		300, -- [2]
+	},
+	["p@Default@cleanReagentBank"] = false,
+	["p@Default@groupTreeSelectedGroupStatus"] = {
+		["AuctionDB"] = {
+			["old world herbs"] = true,
+			["herbs"] = true,
+		},
+		["Auctioning_AH"] = {
+			["old world herbs"] = true,
+			["herbs"] = true,
+		},
+	},
+	["p@Default@auctionResultRows"] = 16,
+	["p@Default@design"] = {
+		["fonts"] = {
+			["content"] = "Fonts\\ARIALN.TTF",
+			["bold"] = "Interface\\Addons\\TradeSkillMaster\\Media\\DroidSans-Bold.ttf",
+		},
+		["edgeSize"] = 1.5,
+		["textColors"] = {
+			["iconRegion"] = {
+				["enabled"] = {
+					249, -- [1]
+					255, -- [2]
+					247, -- [3]
+					1, -- [4]
+				},
+			},
+			["title"] = {
+				["enabled"] = {
+					132, -- [1]
+					219, -- [2]
+					9, -- [3]
+					1, -- [4]
+				},
+			},
+			["label"] = {
+				["enabled"] = {
+					216, -- [1]
+					225, -- [2]
+					211, -- [3]
+					1, -- [4]
+				},
+				["disabled"] = {
+					150, -- [1]
+					148, -- [2]
+					140, -- [3]
+					1, -- [4]
+				},
+			},
+			["text"] = {
+				["enabled"] = {
+					255, -- [1]
+					254, -- [2]
+					250, -- [3]
+					1, -- [4]
+				},
+				["disabled"] = {
+					147, -- [1]
+					151, -- [2]
+					139, -- [3]
+					1, -- [4]
+				},
+			},
+			["link"] = {
+				["enabled"] = {
+					49, -- [1]
+					56, -- [2]
+					133, -- [3]
+					1, -- [4]
+				},
+			},
+		},
+		["fontSizes"] = {
+			["normal"] = 15,
+			["small"] = 12,
+			["medium"] = 13,
+		},
+		["frameColors"] = {
+			["frameBG"] = {
+				["backdrop"] = {
+					24, -- [1]
+					24, -- [2]
+					24, -- [3]
+					0.93, -- [4]
+				},
+				["border"] = {
+					50, -- [1]
+					50, -- [2]
+					50, -- [3]
+					1, -- [4]
+				},
+			},
+			["content"] = {
+				["backdrop"] = {
+					45, -- [1]
+					45, -- [2]
+					45, -- [3]
+					1, -- [4]
+				},
+				["border"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+				},
+			},
+			["frame"] = {
+				["backdrop"] = {
+					24, -- [1]
+					24, -- [2]
+					24, -- [3]
+					1, -- [4]
+				},
+				["border"] = {
+					100, -- [1]
+					100, -- [2]
+					100, -- [3]
+					0.3, -- [4]
+				},
+			},
+		},
+		["inlineColors"] = {
+			["link"] = {
+				153, -- [1]
+				255, -- [2]
+				255, -- [3]
+				1, -- [4]
+			},
+			["link2"] = {
+				153, -- [1]
+				255, -- [2]
+				255, -- [3]
+				1, -- [4]
+			},
+			["tooltip"] = {
+				130, -- [1]
+				130, -- [2]
+				250, -- [3]
+				1, -- [4]
+			},
+			["category"] = {
+				36, -- [1]
+				106, -- [2]
+				36, -- [3]
+				1, -- [4]
+			},
+			["category2"] = {
+				85, -- [1]
+				180, -- [2]
+				8, -- [3]
+				1, -- [4]
+			},
+		},
+	},
+	["p@Default@customPriceSourceTreeStatus"] = {
+		["groups"] = {
+			["1"] = true,
+		},
+		["scrollvalue"] = 0,
+		["selected"] = 1,
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 782.999938964844,
+	},
+	["g@ @bankUITab"] = "Warehousing",
+	["p@Default@embeddedTooltip"] = true,
+	["p@Default@defaultAuctionTab"] = "Shopping",
+	["g@ @operations"] = {
+	},
+	["p@Default@importParentOnly"] = false,
+	["p@Default@cleanBags"] = false,
+	["p@Default@destroyValueSource"] = "dbmarket",
+	["p@Default@deTooltip"] = true,
+	["p@Default@keepInParent"] = true,
+	["f@Horde - Proudmoore@syncMetadata"] = {
+		["TSM_INVENTORY"] = {
+			["Guayaki"] = {
+				["lastUpdate"] = 1473126699,
+				["owner"] = "Proudmoore126544780",
+			},
+		},
+		["TSM_CHARACTERS"] = {
+			["Guayaki"] = {
+				["lastUpdate"] = 1473122399,
+				["owner"] = "Proudmoore126544780",
+			},
+		},
+	},
+	["f@Horde - Proudmoore@inventory"] = {
+		["Guayaki"] = {
+			["reagentBank"] = {
+				["i:111652"] = 36,
+				["i:111556"] = 7,
+				["i:113263"] = 25,
+				["i:127037"] = 2,
+				["i:111589"] = 50,
+				["i:113264"] = 11,
+				["i:124117"] = 12,
+				["i:113262"] = 15,
+				["i:109143"] = 20,
+				["i:111557"] = 4,
+				["i:109140"] = 20,
+				["i:111650"] = 22,
+				["i:111659"] = 25,
+				["i:111662"] = 15,
+				["i:124437"] = 72,
+				["i:109144"] = 10,
+				["i:113261"] = 1,
+				["i:115508"] = 1,
+				["i:109138"] = 10,
+				["i:120945"] = 15,
+				["i:116053"] = 1,
+				["i:124119"] = 3,
+				["i:3820"] = 3,
+			},
+			["bag"] = {
+				["i:109147"] = 1,
+				["i:109129"] = 121,
+				["i:22839"] = 10,
+				["i:124117"] = 2,
+				["i:8529"] = 1,
+				["i:109125"] = 90,
+				["i:129096"] = 4,
+				["i:133575"] = 5,
+				["i:109124"] = 17,
+				["i:109131"] = 1,
+				["i:110560"] = 1,
+				["i:111436"] = 4,
+				["i:2459"] = 1,
+				["i:109126"] = 49,
+				["i:129118"] = 1,
+				["i:124102"] = 30,
+				["i:124101"] = 50,
+				["i:41594"] = 3,
+				["i:109128"] = 14,
+				["i:124118"] = 2,
+				["i:6948"] = 1,
+				["i:127037"] = 1,
+				["i:128304"] = 83,
+				["i:109127"] = 43,
+				["i:138875"] = 5,
+				["i:124438"] = 2,
+				["i:111446"] = 4,
+				["i:140192"] = 1,
+				["i:118922"] = 1,
+				["i:113585"] = 1,
+				["i:128868"] = 1,
+				["i:118428"] = 1,
+				["i:124439"] = 5,
+				["i:128825"] = 1,
+				["i:109625"] = 3,
+				["i:141446"] = 5,
+				["i:124120"] = 15,
+			},
+			["mail"] = {
+			},
+			["auction"] = {
+				["i:10285"] = 1,
+			},
+			["bank"] = {
+			},
+		},
+	},
+	["f@Horde - Proudmoore@guildVaults"] = {
+		["Pew Pew Crew"] = {
+		},
+	},
+	["g@ @optionsTreeStatus"] = {
+		["groups"] = {
+			["module"] = true,
+			["tooltip"] = true,
+		},
+		["scrollvalue"] = 0,
+		["selected"] = "moduleAuctionDB",
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 801.000061035156,
+	},
+	["p@Default@gotoNewGroup"] = true,
+	["p@Default@items"] = {
+		["i:109126"] = "old world herbs",
+		["i:124101"] = "herbs",
+		["i:109124"] = "old world herbs",
+		["i:124120"] = "herbs",
+		["i:109129"] = "old world herbs",
+		["i:109625"] = "old world herbs",
+		["i:128304"] = "herbs",
+		["i:109127"] = "old world herbs",
+		["i:124102"] = "herbs",
+		["i:109128"] = "old world herbs",
+		["i:109125"] = "old world herbs",
+	},
+	["p@Default@tooltipOptions"] = {
+		["AuctionDB"] = {
+			["regionMinBuyout"] = false,
+			["regionHistorical"] = false,
+			["historical"] = false,
+			["regionSalePercent"] = true,
+			["minBuyout"] = true,
+			["regionMarketValue"] = true,
+			["regionSale"] = true,
+			["globalSale"] = false,
+			["globalHistorical"] = false,
+			["regionSoldPerDay"] = true,
+			["globalMinBuyout"] = false,
+			["globalMarketValue"] = false,
+			["_version"] = 2,
+			["marketValue"] = true,
+		},
+		["Auctioning"] = {
+			["operationPrices"] = false,
+		},
+	},
+	["p@Default@moveImportedItems"] = false,
+	["g@ @ignoreRandomEnchants"] = false,
+	["f@Horde - Proudmoore@ignoreGuilds"] = {
+	},
+	["g@ @auctionSaleEnabled"] = true,
+	["g@ @moveDelay"] = 0,
+	["p@Default@cleanBank"] = false,
+	["p@Default@inventoryViewerPriceSource"] = "dbmarket",
+	["_version"] = 6,
+	["g@ @tsmItemTweetEnabled"] = true,
+	["g@ @chatFrame"] = "",
+	["g@ @customPriceTooltips"] = {
+	},
+	["p@Default@vendorSellTooltip"] = true,
+	["g@ @frameStatus"] = {
+		["TSMMainFrame1"] = {
+			["y"] = 241.999969482422,
+			["x"] = 358.999938964844,
+			["hasLoaded"] = true,
+			["height"] = 686,
+			["defaults"] = {
+				["y"] = 200,
+				["x"] = 500,
+				["height"] = 686,
+				["scale"] = 1,
+				["width"] = 823,
+			},
+			["scale"] = 1,
+			["width"] = 823,
+		},
+	},
+	["_scopeKeys"] = {
+		["char"] = {
+			"Guayaki - Proudmoore", -- [1]
+		},
+		["realm"] = {
+			"Proudmoore", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+		},
+	},
+	["f@Horde - Proudmoore@accountKey"] = "Proudmoore126544780",
+	["g@ @vendorItems"] = {
+		["i:17194"] = 10,
+		["i:44854"] = 25,
+		["i:49908"] = 1500000,
+		["i:159"] = 25,
+		["i:27860"] = 6400,
+		["i:8343"] = 2000,
+		["i:10647"] = 2000,
+		["i:90146"] = 20000,
+		["i:4291"] = 500,
+		["i:30183"] = 700000,
+		["i:39354"] = 15,
+		["i:83092"] = 200000000,
+		["i:4340"] = 350,
+		["i:74854"] = 7000,
+		["i:39684"] = 9000,
+		["i:79740"] = 23,
+		["i:2594"] = 1500,
+		["i:6524"] = 3216,
+		["i:17202"] = 10,
+		["i:40533"] = 50000,
+		["i:30817"] = 25,
+		["i:11291"] = 4500,
+		["i:4342"] = 2500,
+		["i:74832"] = 12000,
+		["i:58278"] = 16000,
+		["i:102539"] = 5000,
+		["i:2325"] = 1000,
+		["i:6526"] = 13987,
+		["i:2604"] = 50,
+		["i:47556"] = 1250000,
+		["i:4399"] = 200,
+		["i:6260"] = 50,
+		["i:85583"] = 12000,
+		["i:102540"] = 5000,
+		["i:6525"] = 5788,
+		["i:4537"] = 125,
+		["i:34412"] = 1000,
+		["i:80433"] = 2000000,
+		["i:44499"] = 30000000,
+		["i:35948"] = 16000,
+		["i:62323"] = 60000,
+		["i:74852"] = 16000,
+		["i:67335"] = 445561,
+		["i:58265"] = 20000,
+		["i:46784"] = 25,
+		["i:44855"] = 25,
+		["i:45087"] = 1000000,
+		["i:2596"] = 120,
+		["i:5956"] = 18,
+		["i:7005"] = 82,
+		["i:4470"] = 38,
+		["i:35949"] = 8500,
+		["i:44501"] = 10000000,
+		["i:44500"] = 15000000,
+		["i:65892"] = 50000000,
+		["i:6523"] = 1593,
+		["i:38426"] = 30000,
+		["i:44853"] = 25,
+		["i:2324"] = 25,
+		["i:67319"] = 328990,
+		["i:6530"] = 100,
+		["i:46797"] = 25,
+		["i:85584"] = 17000,
+		["i:65893"] = 30000000,
+		["i:52188"] = 15000,
+		["i:85585"] = 27000,
+		["i:74659"] = 30000,
+		["i:10290"] = 2500,
+		["i:4341"] = 500,
+		["i:74845"] = 35000,
+		["i:4400"] = 2000,
+		["i:74851"] = 14000,
+		["i:2321"] = 100,
+		["i:2593"] = 150,
+		["i:23572"] = 500000,
+		["i:17196"] = 50,
+		["i:6261"] = 1000,
+		["i:14341"] = 5000,
+		["i:4289"] = 50,
+		["i:1179"] = 125,
+		["i:18567"] = 30000,
+		["i:2901"] = 81,
+		["i:2320"] = 10,
+		["i:74660"] = 15000,
+		["i:2595"] = 2000,
+		["i:2678"] = 10,
+		["i:3466"] = 2000,
+		["i:2605"] = 100,
+		["i:3857"] = 500,
+		["i:3371"] = 100,
+		["i:46796"] = 25,
+		["i:6217"] = 124,
+		["i:2880"] = 100,
+		["i:34249"] = 1000000,
+		["i:46793"] = 25,
+		["i:44835"] = 10,
+		["i:43102"] = 750000,
+	},
+	["g@ @moduleOperationsTreeStatus"] = {
+		["Auctioning"] = {
+			["groups"] = {
+				true, -- [1]
+				["1"] = true,
+				["1old world herb sellin"] = true,
+				["1herb sellin"] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = "1old world herb sellin",
+			["treesizable"] = true,
+			["treewidth"] = 175,
+			["fullwidth"] = 782.999938964844,
+		},
+	},
+	["g@ @globalOperations"] = false,
+	["p@Default@groupOperationTooltip"] = true,
+	["g@ @appMessageId"] = 0,
+	["g@ @moduleOperationTabs"] = {
+		["Auctioning"] = 2,
+	},
+	["p@Default@prospectTooltip"] = true,
+	["g@ @auctionBuyEnabled"] = true,
+	["p@Default@auctionFrameMovable"] = true,
+	["_currentProfile"] = {
+		["Guayaki - Proudmoore"] = "Default",
+	},
+	["_hash"] = 12917203,
+	["p@Default@operations"] = {
+		["Auctioning"] = {
+			["herb sellin"] = {
+				["aboveMax"] = "normalPrice",
+				["normalPrice"] = 1000000,
+				["resetResolution"] = 100,
+				["stackSizeIsCap"] = true,
+				["keepQuantity"] = 0,
+				["keepQtySources"] = {
+				},
+				["bidPercent"] = 0.95,
+				["relationships"] = {
+				},
+				["maxPrice"] = 5000000,
+				["ignoreLowDuration"] = 0,
+				["ignorePlayer"] = {
+				},
+				["keepPosted"] = 0,
+				["duration"] = 48,
+				["stackSize"] = 20,
+				["ignoreFactionrealm"] = {
+				},
+				["undercut"] = 1,
+				["resetMaxItemCost"] = 1000000,
+				["resetMinProfit"] = 500000,
+				["cancelRepostThreshold"] = 10000,
+				["maxExpires"] = 0,
+				["resetMaxInventory"] = 10,
+				["resetMaxQuantity"] = 5,
+				["priceReset"] = "none",
+				["resetMaxCost"] = 500000,
+				["cancelRepost"] = true,
+				["cancelUndercut"] = true,
+				["minPrice"] = 50000,
+				["blacklist"] = "",
+				["postCap"] = 1,
+			},
+			["old world herb sellin"] = {
+				["aboveMax"] = "normalPrice",
+				["normalPrice"] = 1000000,
+				["resetResolution"] = 100,
+				["stackSizeIsCap"] = true,
+				["keepQuantity"] = 0,
+				["keepQtySources"] = {
+				},
+				["bidPercent"] = 0.9,
+				["relationships"] = {
+				},
+				["maxPrice"] = 5000000,
+				["ignoreLowDuration"] = 0,
+				["ignorePlayer"] = {
+				},
+				["keepPosted"] = 0,
+				["duration"] = 48,
+				["stackSize"] = 200,
+				["ignoreFactionrealm"] = {
+				},
+				["undercut"] = 1,
+				["resetMaxItemCost"] = 1000000,
+				["resetMinProfit"] = 500000,
+				["cancelRepostThreshold"] = 10000,
+				["maxExpires"] = 0,
+				["resetMaxInventory"] = 10,
+				["resetMaxQuantity"] = 5,
+				["priceReset"] = "none",
+				["resetMaxCost"] = 500000,
+				["cancelRepost"] = true,
+				["cancelUndercut"] = true,
+				["minPrice"] = "110% vendorSell",
+				["blacklist"] = "",
+				["postCap"] = 1,
+			},
+		},
+		["TradeSkillMaster"] = {
+		},
+	},
+	["p@Default@groupFilterPrice"] = "dbmarket",
+	["f@Horde - Proudmoore@pendingMail"] = {
+		["Guayaki"] = {
+		},
+	},
+	["p@Default@gotoNewCustomPriceSource"] = true,
+	["c@Guayaki - Proudmoore@auctionMessages"] = {
+		["A buyer has been found for your auction of Shadow Silk."] = "|cffffffff|Hitem:10285:::::::-2042013824:103:258::::::|h[Shadow Silk]|h|r",
+	},
+	["p@Default@auctionFrameScale"] = 1,
+	["p@Default@isBankui"] = true,
+	["p@Default@groupTreeCollapsedStatus"] = {
+		["AuctionDB"] = {
+		},
+		["Auctioning_AH"] = {
+		},
+	},
+	["p@Default@groupTreeStatus"] = {
+		["groups"] = {
+			true, -- [1]
+			["1"] = true,
+			["1crafting crap"] = true,
+			["1herbs"] = true,
+			["1old world herbs"] = true,
+		},
+		["scrollvalue"] = 0,
+		["selected"] = "1herbs",
+		["treesizable"] = true,
+		["treewidth"] = 175,
+		["fullwidth"] = 800.999938964844,
+	},
+	["p@Default@savedThemes"] = {
+	},
+	["f@Horde - Proudmoore@characterGuilds"] = {
+		["Guayaki"] = "Pew Pew Crew",
+	},
+	["p@Default@openAllBags"] = true,
+	["p@Default@millTooltip"] = true,
+	["p@Default@groups"] = {
+		["old world herbs"] = {
+			["Auctioning"] = {
+				"herb sellin", -- [1]
+			},
+		},
+		["crafting crap"] = {
+			["Auctioning"] = {
+			},
+		},
+		["herbs"] = {
+			["Auctioning"] = {
+				"herb sellin", -- [1]
+			},
+		},
+	},
+	["p@Default@transformTooltip"] = true,
+}
+TSMItemCacheDB = "tóF\000m\000\000)ã\000K\000\000»\000p\000\000ƒ≥d\000\000»\000k\000\000˘\000#\000\000»\000º\000\000ß(\000\000»\000\000\000\000ßK\000\000»\000ñ\000\000\000p®\000(\000\000»\000Ù\000\000b)W\000\000»\000p\000\000’‰e\000\000»\000\000\000\000ß≠Z\000\000»\000d\000\000\000\r\000\000\000»\0002\000\000\000}U\000A\000\000»\000†\000\000'Z\000A\000\000»\000ƒ	\000\000¥ªd\000\000»\000\000\000\000\000/¥Z\000\000»\000i\000\000\000\000)\000\000»\000˙\000\000\000 ‰e\000\000»\000÷\000\0000¥Z\000\000»\000i\000\000\0002¥Z\000\000»\000i\000\000\000\"Z\000\000»\000\000\000\000\000Ç[\000F\000\000»\000ƒ	\000\000Ên\000\000»\000\000\000\000\000\n¯n\000\000»\000\000\000\000Á\000(\000\000»\000Ù\000\000è	\000\000\000»\000\n\000\000\000;¨Z\000\000»\000d\000\000\000-ö\000\000\000»\000Ù\000\000¥W\000A\000\000»\000†\000\000;ê\000K\000\000»\000ƒ	\000\000\"¥Z\000\000»\000Z\000\000\000ö4\0009\000\000»\000˙\000\000\000.œ\000Q\000\000»\000–\000\000{d\000\000\000\000\000\000)ê\000P\000\000»\000–\000\000ßZ\000\000»\000^\000\000-X\000A\000\000»\000ê\000\000D\r\000\000\000\000˙\000\000\000Aê\000K\000\000»\000ƒ	\000\000ˆ*\000\000\000»\000\000\000\000\0005¥Z\000\000»\000i\000\000\000∆‰e\000\000»\000÷\000\000ç\"\000/\000\000»\000w\000\000Ì\000\"\000\000»\000ñ\000\000\000úŒd\000Z\000‚\000\000Y\000<\000\000»\000Ù\000\000©ñ\000\000d\000\000\000ÆW\000A\000\000»\000\000\000\000\000(¥Z\000\000»\000Z\000\000\000Ên\000\000»\000\000\000\000\0004¥Z\000\000»\000i\000\000\000b˜Ó\000\000éù\000“À\000Q\000\000»\000à\000\000Ë|U\000\000»\000d\000\000\0008\0007\000\000»\000\000\000\000\000~+\000\000\000»\000\000\000\000\000Ö\000F\000\000»\000\000\000\000\000d®\000F\000\000»\000\000\000\000«	n\000e\000‚\000\000|¸e\000»\000ÿ÷\000\000Ä[\000<\000\000»\000Ë\000\000?™d\000\000»\000‹\000\000	\000\n\000\000»\000\000\000\000S™d\000\000»\000\000\000\000á¸n\000»\000P4\000#¥Z\000\000»\000Z\000\000\000-E\000&\000\000\000Ù\000\000≠W\000<\000\000»\000\000\000\000\000$¥Z\000\000»\000Z\000\000\000È\000\000\000	\000%\000\000ú\000\000\000%\000\000\000&\000\000	\000ú\000\000,X\000A\000\000»\000ê\000\000h\000d\000\n\000µ¸\000\000<n\000\000\000\000\000\000\000Î\000'\000\000»\000d\000\000\000g\000d\000<\000s\000\000n\000\000\000\000\000\000\000à\000\n\000\000\000\000\000\000\000(\000\000»\000˙\000\000\000·À\000T\000\000»\000\000}\000\000Ç+\000\000\000»\000\000\000\000\000ß\n\000\000»\000\000\000\000å⁄®\000\000U®\000%ê\000H\000\000»\000Ó\000\000V≥d\000[\000‚\000\000ˇ1\0007\000\000»\000X\000\000_4e\000xø\000ç[\000F\000\000»\0000u\000\000K+\000\000\000»\000\000\000\000\000S\000\000\000»\000\000\000\000p\000\r\000\000N\000\000¶+\000(\000\000»\000\000\000\000\000ßQ\000\000»\000»\000\000\000\000d\000\000Jg\000\000ÚÕ\000U\000\000»\000\000\000\000\000*¥Z\000\000»\000Z\000\000\000¸e\000»\000ÿ÷\000\000Æô\000<\000\000»\000\000\000\000Œ\000Q\000\000»\000©\000\000|\000d\000<\000J\000\000~¸e\000»\000ÿ÷\000\000Ö\000P\000\000»\000\000\000\000\000ç≤d\000\000»\000\000\000\000\000p\000\000\000\000\000\000\000÷‰e\000\000»\000,\000\000…∆\\\0002π\000\000´ô\000\000\000»\000\000\000\000^Ÿ®e\000 \000W\000d\000\000‘o\000\000á\000d\000<\000ñ\000\000Eê\000P\000\000»\0000u\000\000ßU\000\000»\000˙\000\000\000ùX\000\000»\000Ó\000\000ÒÕ\000U\000\000»\000\000\000\000\000w®\000F\000\000»\000Ù\000\000á\"\000/\000\000»\000w\000\0008¨Z\000\000»\000d\000\000\000\0002\000<\000\000»\000'\000\000é\"\0002\000\000»\000˙\000\000\000ﬂ\000\000\0002\r\000\000≥W\000A\000\000»\000†\000\000›\000\n\000\000¥\000\000\000=¨Z\000\000»\000d\000\000\000<¨Z\000\000»\000d\000\000\000h)W\000\000»\000p\000\000c™d\000Z\000ƒ	\000\000:¨Z\000\000»\000d\000\000\000qÿd\000\000Ë\000\000\000\0005ê\000K\000\000»\000ƒ	\000\000é[\000F\000\000»\0000u\000\0003=\000U\000\000¬\000\000Ä™d\000Z\000Ù\000\000Ú\000\n\000\0002\000\000HZ\000A\000\000»\000ƒ	\000\000‘ÆZ\000Z\000˙\000\000\000U™d\000\000»\000\000\000\000≠\000F\000A\000%\000\000\000Ö\000F\000\000»\000\000\000\000\000H™d\000\000»\000û	\000\000ﬂ6\0002\000\000»\000ê\000\000$\000\000\000\000\000\000\000\000»‰e\000\000»\000÷\000\000ÓÕ\000Q\000\000»\000\000\000\000\000®\000\000\000\000\000)\000\000\000+V\000\000»\000∑	\000\000ßH\000\000»\000d\000\000\000◊À\000U\000\000»\000ƒ	\000\0004e\000Çù\000N™d\000\000»\000,\000\000~\000%\000 \000®\r\000\000KÕ\000Q\000\000»\000\000\000\000\000\n\000\000\000\000\000\000‚À\000T\000\000»\000\000}\000\000'^U\000\000»\000\000\000c®\000<\000\000»\000\000\000\0002\0007\000\000»\000Ù\000\000:¥Z\000\000»\000}\000\000\000(ê\000H\000\000»\000Ó\000\000â\000\000\000\000W\r4e\000¢\000Ù\000\000\000ë\000\000Iì\000K\000\000»\000X\000\000Ìê\000\000\000\000»\000\000\000\000l\000	\000\000<\000\000\0000√_\000\000»\000\000\000\000\000L0\000<\000\000»\000'\000\000ïÊ\000P\000P\000j\000\000Å+\000#\000\000»\000\000\000\000\000I™d\000\000»\000û	\000\000;¥Z\000\000»\000}\000\000\000˘v\000A\000A\000@\000\000z\000\000\000»\000»\000\000\000◊πd\000\000»\000Ù\000\000 ∂d\000\000\000q\000\000\"ú\000K\000\000»\000Ó\000\000^¯e\000\000»\000\000\000\000\000®\000F\000\000»\000»\000\000\000Õ\000U\000\000»\000\000\000\000\000z¢\000P\000\000»\000'\000\000ï	\000\000\000»\000\000\000\000 \n\000\000\000»\000!\000\000\0003¥Z\000\000»\000i\000\000\000„À\000T\000\000»\000\000}\000\000ßS\000\000»\000·\000\000\000ê[\000F\000\000»\0000u\000\000\r\000\000\000»\000\000\000\0006ê\000P\000\000»\0000u\000\000è,\000\000\000\000\n\000l\000\000\000C˜\000\000\000\000%\000\000\000L?\0007\000\000»\000\000\000\000\000‡ØZ\000Z\000\000\000\000\000&ã\000K\000\000»\000p\000\000Ü\"\000.\000\000»\000<\000\000\000◊‰e\000\000»\000\000\000\000Y\000<\000\000»\000Ù\000\000”‰d\000\000»\000\000\000\000<¥Z\000\000»\000}\000\000\000ª\000\000\000%\000\000\000`®\000\000\000»\000\000\000\000‘À\000Q\000\000»\000à\000\000=d\000\000»\000‚\000\000r–\000\000\000\000\000\000\000¢\000P\000\000\000‘0\000\000©\000\000\000»\000X\000\000Øô\000F\000\000»\000\000\000\000∏W\000A\000\000»\000†\000\000£4X\000\000»\000v\n\000\000∞d\000\000»\000\000\000\000˜\000\000\000\000ñ\000\000\000\n\"n\000\000\000\000\000\000Hì\000K\000\000»\000X\000\000Y\000d\000<\000©\000\n\000\000\000»\000\r\000\000\000Ñ¸n\000»\000P4\000ä–\000Z\000\000\000\000\000Y\000<\000\000»\000Ù\000\000¢4W\000\000»\000Â	\000\000Ö¸n\000»\000P4\000«‰e\000\000»\000÷\000\000ë\n\000\000T\000\000\000\000\000\000»\000<\000\000\000'ê\000M\000\000»\000‚\000\000j)Z\000\000»\000∏à\000\000&\000\000\000¯\000\000\000\n}U\000\000»\000d\000\000\000(ã\000K\000\000»\000p\000\000v®\000F\000\000»\000Ù\000\000!ú\000K\000\000\000Ó\000\000k)Z\000\000»\000∏à\000\000c)Z\000\000»\000∏à\000\000≠ô\0002\000\000»\000\000\000\000®≠Z\000\000»\000d\000\000\000Ÿ‰e\000\000»\000\000\000\000/\000\000\000»\000W\000\000\000—À\000Q\000\000»\000à\000\000d˜Ó\000\000Ûß\"\000Ú\000U\000\000»\000‹\000\000®ª\000\000\000\000\000v\000\000\000»\000\000\000\000\000\000\000»\000\000\000\000#ß\000\000»\000\000\000\000\000(\000\000»\000 \000\000Z\000\r\000\000\000\000\000|)\000(\000\000»\000˙\000\000\000Êd\000\000»\000\000\000\000‘\000\000\000Ñ\000\000\000L¯\000»\000 \000\000/\000\000\000\n\000\000\000/X\000A\000\000»\000ê\000\0004√\000»\000‹\000\000m∫d\000\000»\000Ë\000\000ó5V\000\000»\000\000\000\0008¥Z\000\000»\000}\000\000\000U≈\000Ë\000\000\000\000\\€\000\000\000\000\000;\000\000\000n∫d\000\000»\000Ë\000\000‰d\000\000»\000÷\000\000%Z\000A\000\000»\000ƒ	\000\000F™d\000\000»\000û	\000\000Û¿d\000\000»\000\000\000\000Ú\000Q\000\000»\000\000\000\000p∫d\000\000»\000Ë\000\000ì5V\000\000»\000\000\000\000Êd\000\000»\000\000\000\000Dì\000K\000\000»\000X\000\000Â\000-\000\000»\000Ë\000\000Â≥Z\000\000»\000Z\000\000\000∂\000\000\000»\000ê\000\000Ü(d\000»\000$Ù\000\0000ıe\000\000»\000÷\000\000G™d\000\000»\000û	\000\000f)W\000\000»\000p\000\000L≥d\000[\000‚\000\0009˜Ó\000\000ÕI\"\000\rß<\000\000»\000d\000\000\000≈≥Z\000\000»\000÷\000\000ë	\000\n\000\000»\000\000\000\000t\000d\000<\000\"\000\000õ	\000\000\000\000\000\000K™d\000\000»\000,\000\000Ú\000Q\000\000»\000Ù\000\000E\000\000\000\000Ü\000\000\000H¯\000\000\000\000\000l\000d\000<\0001\000\000\000\n\000\000»\000\000\000\000-(\000(\000\000»\000Ë\000\000Bê\000P\000\000»\0000u\000\000Eì\000K\000\000»\000X\000\000¯Œ\000R\000\000»\000Q\000\000+¥Z\000\000»\000Z\000\000\000¿\000\r\000\000d\000\0002\000\000\000»\000d\000\000\000[™d\000Z\000ƒ	\000\000ØW\000<\000\000»\000\000\000\000\000å[\000F\000\000»\0000u\000\0008\0002\000\000»\000\000\000\000\000¨ô\000(\000\000»\000\000\000\000\nß(\000\000»\000\000\000\000ÿ‰e\000\000»\000\000\000\000Ôò\000\000\000»\000\000\000\000*ê\000P\000\000»\000–\000\000˙Œ\000S\000\000»\000™\000\000Á\000\000\000\000˙\000\000\000e)W\000\000»\000p\000\000∫*\000\n\000\000»\000\000\000\000\000ıP\000<\000\000»\000\000\000\000\000Ú\000Q\000\000»\000\000\000\000ß d\000[\000p\000\000É+\000#\000\000»\000\000\000\000\000‚*\000\000\000»\000\000\000\000\000õ4\000:\000\000»\000˙\000\000\0002X\000A\000\000»\000ê\000\000™+\000-\000\000»\000\000\000\000\000L+\000\000\000»\000\000\000\000\000±W\000F\000\000»\000\000\000\000\000>ê\000K\000\000»\000ƒ	\000\000ã\r4e\000i“\000	\"V\000\000»\000\000\000\000\000MZ\000A\000\000»\000ƒ	\000\000úV\000\000»\000‹\000\000l®\000\000\000»\000Ù\000\000ßF\000\000»\000}\000\000\000gßP\000\000»\000ñ\000\000\000Ên\000\000»\000\000\000\000\0001¥Z\000\000»\000i\000\000\000º*\000\n\000\000»\000\000\000\000\000º\000\000\000»\000\000\000\000M™d\000\000»\000,\000\000.¥Z\000\000»\000Z\000\000\000)\r\000\000\000»\000\000\000\000\r\000%\000\000»\000Ø\000\000\000©U\000A\000\000»\000ƒ	\000\000.ê\000P\000\000»\000÷\000\000l)Z\000\000»\000∏à\000\000’À\000Q\000\000»\000à\000\000ÿ\n\000\000\000»\000Ù\000\000˝\000\000\000»\000\n\000\000\000Dê\000K\000\000»\000ƒ	\000\000‡À\000T\000\000»\000\000}\000\0001X\000A\000\000»\000ê\000\000ß\000\000»\000\000\000\000n®\000\000\000»\000Ù\000\000˜Œ\000Q\000\000»\000Ô\000\000†#Z\000Z\000\000\000\000\000Ê\0002\000\000»\000à\000\000\000\000\000»\000}\000\000\000e®\000P\000\000»\000\000\000\000…‰e\000\000»\000÷\000\0009¨Z\000\000»\000d\000\000\000@\000\000\000»\000\000\000\000\000\000\000»\000\000\000\000\000\000\000»\0002\000\000\000X™d\000\000»\000\000\000\000Ï\000\000\000»\000d\000\000\000g)W\000\000»\000p\000\000I0\0007\000\000»\000X\000\000?ê\000P\000\000»\0000u\000\000Y\000A\000\000»\000X\000\000c˜Ó\000\0008†\0008ê\000K\000\000»\000ƒ	\000\000ﬁÀ\000T\000\000»\000\000}\000\000◊\n\000\n\000\000»\000K\000\000\000Å¸e\000»\000ÿ÷\000\000Ä¸e\000»\000ÿ÷\000\000ßA\000\000»\000ñ\000\000\0009ê\000P\000\000»\0000u\000\000a®\000(\000\000»\000\000\000\000-U\000\000»\000û	\000\000ß(\000\000»\0002\000\000\000É[\000F\000\000»\000‚\000\000m)Z\000\000»\000∏à\000\000n)Z\000\000»\000∏à\000\000OQ\000\000\000»\000\000\000É¸n\000»\000P4\000\r\000\000\000»\000K\000\000\000Ü¸n\000»\000P4\000CZ\000A\000\000»\000ƒ	\000\000è[\000F\000\000»\0000u\000\000ª*\000\000\000»\000\000\000\000\000Y\000F\000\000»\000Ë\000\000.√_\000\000»\000\000\000\000\000\"Z\000\000»\000\000\000\000\000ÔÕ\000S\000\000»\000\000\000\000\0000X\000A\000\000»\000ê\000\000•ºd\000‰6\000\n\"W\000\000»\000\000\000\000\000πW\000A\000\000»\000†\000\000ñ5V\000\000»\000Ù\000\000E™d\000\000»\000û	\000\000J?\0002\000\000»\000\000\000\000\000∫\000\000\000»\000˙\000\000\000	ß\000\000»\000\000\000\000	Y\000F\000\000»\000‹\000\000”\n\000\000\000»\000\000\000\000û\000\000\000\000\000\000Î≥Z\000\000»\000i\000\000\000¸è\000K\000\000»\000p\000\000Gì\000K\000\000»\000X\000\000´‘\000S\000\000\000ò:\000\000ŸÀ\000S\000\000»\000 \000\000ßF\000\000»\000˙\000\000\000+ã\000K\000\000»\000p\000\000i)W\000\000»\000p\000\0000ê\000K\000\000»\000‹\000\000\"W\000\000»\000\000\000\000\000~U\000A\000\000»\000†\000\000O\000\000\000}\000\000\000ò4\0004\000\000»\000d\000\000\000Ç¸n\000»\000P4\000<ê\000P\000\000»\0000u\000\000ﬂÀ\000T\000\000»\000\000}\000\000Ò≥Z\000\000»\000}\000\000\000Q™d\000\000»\000\000\000\000b®\0002\000\000»\000\000\000\000≤W\000F\000\000»\000\000\000\000\000®+\000-\000\000»\000\000\000\000\000R™d\000\000»\000\000\000\000-ê\000H\000\000»\000Ë\000\000J+\000\000\000»\000\000\000\000\000.X\000A\000\000»\000ê\000\000¸Œ\000T\000\000»\000	\000\000Y\000F\000\000»\000‚\000\000Ö\000P\000\000»\000\000\000\000\000ï5V\000\000»\000\000\000\000¯n\000\000»\000\000\000\000Í\000 \000\000»\000}\000\000\000Y\000D\000\000»\000Ó\000\000î	\000\000\000»\000\000\000\000˜\r\000\000\000»\000»\000\000\0007Y\000F\000<\000à\000\000}¸e\000»\000ÿ÷\000\000¶ô\000\n\000\000»\000\000\000\000+\000#\000\000»\000\000\000\000\000‘\n\000\000\000»\000ñ\000\000\000}¨d\000\000»\000\000\000\000\000|U\000A\000\000»\000†\000\0006¥Z\000\000»\000}\000\000\000*U\000\000»\000!	\000\000_®\000\000\000»\000\000\000\000ô4\0008\000\000»\000ñ\000\000\000ß\n\000\000»\000\n\000\000\000D™d\000\000»\000û	\000\000\\U\000\000»\000\000\000\000\000ß\000\000»\0002\000\000\000	Ö\000P\000\000»\000\000\000\000\000Fì\000K\000\000»\000X\000\000‰i\000\000»\000÷\000\000ë[\000F\000\000»\0000u\000\000'ã\000K\000\000»\000p\000\000í	\000\000\000»\000\000\000\000≈‰e\000\000»\000÷\000\000\"\000*\000\000»\000,\000\000“\n\000\n\000\000»\000\000\000\000⁄\000qd\000©Ç\000\000o∫d\000\000»\000Ë\000\000ûZ\000\000»\000^\000\000”À\000Q\000\000»\000à\000\0007¥Z\000\000»\000}\000\000\000!î\000H\000\000»\000Ó\000\000W™d\000\000»\000\000\000\000™ô\000\000\000»\000\000\000\000÷\n\000\000\000\000.\000\000\000Q!\000-\000#\000Ø\000\000\000^õ\000\n\000\000»\000Ù\000\000t®\000<\000\000»\000Ù\000\0009¥Z\000\000»\000}\000\000\000Å[\000A\000\000»\000‹\000\000r®\0002\000\000»\000Ù\000\000T™d\000\000»\000\000\000\000÷À\000Q\000\000»\000à\000\000˘Œ\000R\000\000»\000\000\000±ªZ\000Z\000˙\000\000\000Ö\000K\000\000»\000\000\000\000\000©+\000(\000\000»\000\000\000\000\000Êd\000\000»\000\000\000\000+ê\000H\000\000»\000Ó\000\000K?\0007\000\000»\000\000\000\000\000ß+\000-\000\000»\000\000\000\000\000˚Œ\000U\000\000»\000:	\000\000¢B\000\000\000\000\000\000\000\000V™d\000\000»\000\000\000\000ó4\0006\000\000»\000d\000\000\000Eternal Life\000Hexweave Cloth\000Jade\000Mithril Ore Nugget\000Saronite Ore Nugget\000Celestial Ink\000Tiger Opal\000Lean Shank\000True Iron Nugget\000Wild Steelbloom\000Primal Water\000Deep Peridot\000Temporal Crystal\000Blackwater Whiptail\000Firebloom\000Felwort\000Abyssal Gulper Eel\000Fire Ammonite\000Ethereal Shard\000Khorium Ore\000Chaos Crystal\000Sallow Pigment\000Truesilver Ore\000Peacebloom\000Starflower Petal\000Moonglow Ink\000Primal Earth\000Chalcedony\000Small Jawless Skulker\000Sorrowmoss\000Obsidium Ore\000Small Ley Crystal\000Lichbloom\000White Trillium Ore\000Mote of Earth\000Recipe: Elixir of Lesser Agility\000Huge Citrine\000Lesser Astral Essence\000Jawless Skulker\000Dreamleaf\000Ghost Mushroom\000Goldthorn\000Legion Chili\000Felweed\000Glyph of Evaporation\000Greater Planar Essence\000Small Fire Ammonite\000Leylight Shard\000Fat Sleeper\000Truthguard\000Zephyrite\000Ghost Iron Nugget\000Large Brilliant Shard\000Lesser Mystic Essence\000Lesser Cosmic Essence\000Ebon Pigment\000Dried Mackerel Strips\000Sangrite\000Fel Iron Ore\000True Iron Ore\000Light Leather\000Fat Sleeper Flesh\000Shadowruby\000Small Fat Sleeper\000Recipe: Elixir of Frost Power\000Arcane Dust\000Small Blind Lake Sturgeon\000Old Greatsword\000Scroll of Stamina\000Gypsy Trousers\000Mote of Air\000Ashen Ring\000Adventurer's Wisdom\000Dragon's Teeth\000Congealed Felblood\000Brief History of the Aeons\000Healthstone\000Mithril Ore\000Ember Topaz\000Small Glowing Shard\000Silver Ore Nugget\000Psychotic Scholar's Chain\000Goldclover\000Skulker Chowder\000Large Opal\000Chain of the Green Flight\000Talasite\000Soul Dust\000Tender Crocolisk Meat\000Disciple's Robe\000Lesser Nether Essence\000Obsidium Ore Nugget\000Elemental Droplet\000Maelstrom Crystal\000Small Sea Scorpion\000Chaotic Spinel\000Nether Pigment\000Savage Leather\000Broken Stem\000Azsunite\000Dream Shard\000Luminous Shard\000Fishing Pole\000Fatty Bearsteak\000Smoldering Greaves\000Emerald Pigment\000Smolderhide Bindings\000Razor Tooth\000Worn Hooked Claw\000Forest Emerald\000Pyrite Ore Nugget\000Kyparite\000Heavenly Shard\000Snowfall Ink\000Blindweed\000Broken Frostweed Stem\000Azerothian Diamond\000Gromsblood\000Big Iron Fishing Pole\000Primal Air\000Strong Fishing Pole\000Talador Orchid Petal\000Nagrand Arrowbloom Petal\000Pandarian Garnet\000Greater Draenic Intellect Flask\000Gorgrond Flytrap Ichor\000Primal Spirit\000Bloodstone\000Star of Elune\000Soft Down Feather\000Stealthman 54\000Training Sword\000Golden Draenite\000Sea Scorpion Bait\000Fire Ammonite Tentacle\000Scroll of Recall III\000Infinite Dust\000Nagrand Arrowbloom\000Runecloth\000Hearthstone\000Fjarnskaggl\000Lesser Celestial Essence\000Ruffled Feather\000Silkweed\000Cobalt Ore Nugget\000Pyrite Ore\000Ember of Nullification\000Raw Elekk Meat\000Battle Harness\000Hypnotic Dust\000Dry Pork Ribs\000Demonseye\000Desecrated Herb\000Sapphire Pigment\000Living Essence\000Enormous Blind Lake Sturgeon\000Tiger Lily\000Light Scale Belt\000Arch-Druid's Tainted Seal\000Hunting Bow\000Crystallized Water\000Ivory Ink\000Infantry Cloak\000Fractured Temporal Crystal\000Huge Emerald\000Greasy Whale Milk\000Vision Dust\000Talador Orchid\000Enormous Fat Sleeper\000Gilneas Sparkling Water\000Small Lustrous Pearl\000Warbinder's Ink\000Enchant Weapon - Mark of Blackrock\000Fire Leaf\000Dreamleaf Sample\000Worg Haunch\000Small Heavenly Shard\000Moonshroud\000Bruiseweed\000Wool Cloth\000Blind Lake Sturgeon\000Amberjewel\000Elementium Ore Nugget\000Dawnstone\000Kingsblood\000Scarlet Ruby\000Torn Bear Pelt\000Sunkissed Wine\000Illusion Dust\000Garrison Hearthstone\000Eternal Water\000Sungrass\000Big Gamy Ribs\000Dreaming Glory\000Stormscale\000Enormous Jawless Skulker\000Scroll of Intellect\000Burnt Pigment\000Nightstone\000Runic Catgut\000Rusted Canary Cage\000Frostweave Bag\000Lesser Moonstone\000Azure Pigment\000Primal Shadow\000Fool's Cap\000Raw Beast Hide\000Pattern: Stylish Green Shirt\000Ancient Mana Crystal\000Crystallized Life\000Intact Skull\000Linen Cloth\000Dawnlight\000Oralius' Whispering Crystal\000Terocone\000Snow Lily\000Pandemonite\000Foxflower\000Imbued Infantry Bracers\000Heavy Stone\000Adder's Tongue\000River's Heart\000Gypsy Buckler\000Kyparite Fragment\000Eternal Earth\000Ink of the Sea\000Fire Seed\000Wild Jade\000Primordial Ruby\000Silvery Pigment\000Blackrock Fragment\000Wildfowl Egg\000Mystery Meat\000Carnelian\000Light's Wrath\000Inferno Ink\000Scrap of Cloth\000Ruined Leather Scraps\000Rough Stone\000Wild Steelbloom Petal\000Citrine\000Lesser Healing Potion\000Thorium Ore\000Unbroken Claw\000Green Linen Bracers\000Gem Chip\000Coarse Sharpening Stone\000Mote of Life\000Draenic Stone\000Sorcerous Fire\000Starlight Ink\000Enormous Sea Scorpion\000Draenic Seeds\000Torn Cartilage\000Sorcerous Water\000Leystone Ore\000Blood Garnet\000Gorgrond Flytrap\000Cerulean Pigment\000Ashen Pigment\000Sorcerous Air\000Shadow Pigment\000Shal'dorei Silk\000Crystallized Air\000Aquamarine\000Small Crescent Saberfish\000Moss Agate\000Tome of the Tranquil Mind\000Yseralline Seed\000Starflower\000Sunstone\000Braised Riverbeast\000T'uure, Beacon of the Naaru\000Fel Iron Ore Nugget\000Sumptuous Fur\000Earthroot\000Frothing Essence\000Swiftness Potion\000Raw Clefthoof Meat\000Blackfallow Ink\000Chipped Hair Brush\000Battle-Mender's Dressing\000Sticky Volatile Substance\000Mageroyal\000Shadow Silk\000Monarch Topaz\000Crystallized Earth\000Stormvine\000Small Abyssal Gulper Eel\000Infantry Tunic\000Tigerseye\000Draenic Intellect Flask\000Lesser Planar Essence\000Living Ruby\000Small Brilliant Shard\000Violet Pigment\000Thorium Ore Nugget\000Leyblood\000Alabaster Pigment\000Icethorn\000Heartblossom\000Formula: Enchant Bracer - Lesser Versatility\000Lapis Lazuli\000Lesser Magic Essence\000Nexus Crystal\000Burning Embers\000Smuggled Tonic\000Large Glowing Shard\000Small Glimmering Shard\000Icecap\000Mote of Water\000Large Radiant Shard\000Large Glimmering Shard\000Large Prismatic Shard\000Shadow Crystal\000Braided Silver Ring\000Spirit Dust\000Azure Moonstone\000Ghost Iron Ore\000Lion's Ink\000Eternium Ore Nugget\000Titanium Ore Nugget\000Arkhana\000Sea Scorpion\000Strange Dust\000Murloc Fin\000Rylak Egg\000Small Blackwater Whiptail\000Grave Moss\000Khadgar's Whisker\000Flame Spessarite\000Titanium Ore\000Vermilion Onyx\000Hessonite\000Gold Ore\000Silverleaf\000Dark Jade\000Dream Emerald\000Mote of Shadow\000Tin Ore Nugget\000Jadefire Ink\000Cinderbloom\000Dalaran Hearthstone\000Star Ruby\000Coal\000Icy Pigment\000Starlight Rose\000Broken Fireweed Stem\000Weak Flux\000Coarse Stone\000Malachite\000Blackwater Whiptail Flesh\000Stranglekelp\000Roguestone\000Blue Sapphire\000Twilight Opal\000Ragveil\000Oathseeker\000Sun Crystal\000Inferno Ruby\000Silver Ore\000Queen's Opal\000Skystone\000Adamantite Ore Nugget\000Autumn's Glow\000Indigo Pigment\000Rain Poppy\000Truesilver Ore Nugget\000Eternium Ore\000Imperial Amethyst\000Sun's Radiance\000Jeweler's Kit\000Eye of Prophecy\000Liferoot\000Maelstrom Sapphire\000Shadow Draenite\000Noble Topaz\000Greater Magic Essence\000Netherbloom\000Small Luminous Shard\000Sha Crystal\000Greater Celestial Essence\000Mote of Mana\000Nether Twisted Band\000Mysterious Essence\000Primal Mana\000Ink of Dreams\000Fireweed\000Lesser Eternal Essence\000Shadowgem\000Iron Ore Nugget\000Mana Thistle\000Tin Ore\000Leystone Buoy\000Crescent Saberfish\000Eternal Fire\000Crystallized Shadow\000Embersilk Bag\000Elementium Ore\000Khorium Ore Nugget\000Eternal Shadow\000Alexandrite\000Saronite Ore\000Small Ethereal Shard\000Primal Life\000Murloc Fin Soup\000Golden Sansam\000Furystone\000Sky Sapphire\000Ocean Sapphire\000Enormous Crescent Saberfish\000Crescent Saberfish Flesh\000Ruby Pigment\000Void Crystal\000Dream Dust\000Jawless Skulker Flesh\000Cobalt Ore\000Greater Astral Essence\000Mote of Fire\000Whiptail\000Nightmare Vine\000Small Dream Shard\000Misty Pigment\000Roseate Pigment\000Fadeleaf\000Ancient Lichen\000Swiftthistle\000Iron Bar\000Destruction Potion\000Deep Amber\000Dusky Pigment\000Greater Mystic Essence\000Iron Ore\000Draenic Dust\000Primal Fire\000Enormous Blackwater Whiptail\000Green Tea Leaf\000Verdant Pigment\000Mountain Silversage\000Earthroot Stem\000Frostweed\000Mote of Harmony\000Gold Ore Nugget\000Abyss Crystal\000Crystallized Fire\000Felslate\000Nightseye\000Eternal Air\000Briarthorn\000Aethril\000Purple Lotus\000Copper Ore\000Warped-Plate Stompers\000Sorcerous Earth\000Black Trillium Ore\000Alicite\000Enormous Abyssal Gulper Eel\000Deadnettle\000Abyssal Gulper Eel Flesh\000Golden Pigment\000Rust-Covered Blunderbuss\000Noggenfogger Elixir\000Midnight Ink\000Ethereal Ink\000Enormous Fire Ammonite\000Adamantite Ore\000Shimmering Ink\000Blind Lake Sturgeon Flesh\000Jasper\000Azshara's Veil\000Iron Horde Rejuvenation Potion\000Greater Cosmic Essence\000Small Radiant Shard\000Unbroken Tooth\000Talandra's Rose\000Greater Eternal Essence\000Greater Nether Essence\000Twilight Jasmine\000Fish Oil\000Sea Scorpion Segment\000Dreamfoil"

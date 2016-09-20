@@ -1,0 +1,78 @@
+
+TradeSkillMaster_CraftingDB = {
+	["f@Horde - Proudmoore@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["_scopeKeys"] = {
+		["char"] = {
+			"Kikobank - Proudmoore", -- [1]
+		},
+		["realm"] = {
+			"Proudmoore", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["gatheringFrame"] = true,
+	},
+	["g@ @priceColumn"] = 1,
+	["g@ @ignoreCharacters"] = {
+	},
+	["g@ @questSmartCrafting"] = true,
+	["f@Horde - Proudmoore@playerProfessions"] = {
+	},
+	["g@ @frameQueueOpen"] = false,
+	["g@ @defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)",
+	["f@Horde - Proudmoore@inkTrade"] = false,
+	["g@ @ignoreGuilds"] = {
+	},
+	["g@ @showingDefaultFrame"] = false,
+	["_currentProfile"] = {
+		["Kikobank - Proudmoore"] = "Default",
+	},
+	["f@Horde - Proudmoore@evenStacks"] = false,
+	["f@Horde - Proudmoore@ignoreDECheckBox"] = false,
+	["f@Horde - Proudmoore@professionScanCache"] = {
+	},
+	["f@Horde - Proudmoore@mats"] = {
+	},
+	["f@Horde - Proudmoore@disableCheckBox"] = false,
+	["f@Horde - Proudmoore@crafts"] = {
+	},
+	["g@ @ignoreCDCraftCost"] = true,
+	["f@Horde - Proudmoore@ignoreAlts"] = false,
+	["g@ @defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
+	["g@ @queueSort"] = 1,
+	["f@Horde - Proudmoore@buyAH"] = false,
+	["f@Horde - Proudmoore@gathering"] = {
+		["selectedSources"] = {
+		},
+		["availableMats"] = {
+		},
+		["shortItems"] = {
+		},
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
+		},
+		["destroyingMats"] = {
+		},
+		["professions"] = {
+		},
+		["neededMats"] = {
+		},
+		["gatheredMats"] = false,
+		["extraMats"] = {
+		},
+	},
+	["_hash"] = 15983053,
+	["f@Horde - Proudmoore@ignoreIntermediate"] = false,
+	["_version"] = 7,
+	["g@ @profitPercent"] = 0,
+}

@@ -1,0 +1,8 @@
+Version: 1
+Frame: DominosFrameclass
+FrameLevel: 1
+Anchor: CENTER
+X: 448
+Y: -216
+W: 30
+H: 30

@@ -1,0 +1,21 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Yorunotobari - Uldum"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["icon"] = {
+				["minimapPos"] = 191.154657313366,
+			},
+			["windows"] = {
+				{
+					["y"] = 34.9997367858887,
+					["mode"] = "DPS",
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -13.999267578125,
+				}, -- [1]
+			},
+		},
+	},
+}

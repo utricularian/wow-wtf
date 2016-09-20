@@ -1,0 +1,34 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Kikoutate - Uldum"] = {
+					["module"] = "AtlasLootMoP",
+					["NEWpoint"] = {
+						nil, -- [1]
+						nil, -- [2]
+						"CENTER", -- [3]
+						240.000015258789, -- [4]
+						-3.282587567809970e-005, -- [5]
+					},
+					["instance"] = "GateoftheSettingSun",
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Kikoutate - Uldum"] = "Kikoutate - Uldum",
+	},
+	["profiles"] = {
+		["Kikoutate - Uldum"] = {
+		},
+	},
+}

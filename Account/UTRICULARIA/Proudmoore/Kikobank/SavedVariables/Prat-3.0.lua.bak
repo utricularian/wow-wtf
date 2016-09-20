@@ -1,0 +1,153 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1473137521,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[21:45:31]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Durotar]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[21:45:31]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Durotar]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[21:46:12]|r|c00000000|r Discovered Darkspear Strand: 10 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[21:47:01]|r|c00000000|r Discovered The Merchant Coast: 65 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[21:47:01]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Northern Barrens]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[21:47:01]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Northern Barrens]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[21:48:53]|r|c00000000|r Discovered Ratchet: 65 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[21:49:53]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - The Cape of Stranglethorn]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[21:49:53]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - The Cape of Stranglethorn]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[21:50:14]|r|c00000000|r Discovered Booty Bay: 65 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[21:50:52]|r|c00000000|r You are not in a guild.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[21:51:26]|r|c00000000|r [W To] |cffd8d8d8[|r|Hplayer:Isabelf:68:WHISPER:ISABELF|h|cffffffffIsabelf|r|h|cffd8d8d8]|r: are there no longer faction-neutral auction houses?", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				10, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[21:51:32]|r|c00000000|r [W To] |cffd8d8d8[|r|Hplayer:Isabelf-Proudmoore:69:WHISPER:ISABELF-PROUDMOORE|h|cffffffffIsabelf|r|h|cffd8d8d8]|r: (this is sam)", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				10, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[21:51:41]|r|c00000000|r [W From] |cffd8d8d8[|r|Hplayer:Isabelf-Proudmoore:70:WHISPER:ISABELF-PROUDMOORE|h|cffffffffIsabelf|r|h|cffd8d8d8]|r: haven't heard of that", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				0, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[21:51:42]|r|c00000000|r You are now Neutral with Booty Bay.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[21:51:51]|r|c00000000|r [W From] |cffd8d8d8[|r|Hplayer:Isabelf-Proudmoore:72:WHISPER:ISABELF-PROUDMOORE|h|cffffffffIsabelf|r|h|cffd8d8d8]|r: but i don't go there very often", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				0, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[21:52:01]|r|c00000000|r [W To] |cffd8d8d8[|r|Hplayer:Isabelf-Proudmoore:73:WHISPER:ISABELF-PROUDMOORE|h|cffffffffIsabelf|r|h|cffd8d8d8]|r: hmm", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				10, -- [5]
+			}, -- [17]
+		},
+	},
+}
