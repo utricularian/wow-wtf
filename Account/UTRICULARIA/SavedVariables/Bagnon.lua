@@ -12,23 +12,23 @@ Bagnon_Sets = {
 			},
 			["scale"] = 1,
 			["alpha"] = 1,
-			["y"] = 112.00008392334,
-			["x"] = -168.999267578125,
-			["bagBreak"] = false,
+			["y"] = 83.0000915527344,
+			["x"] = -400.999755859375,
+			["showBags"] = true,
 			["borderColor"] = {
 			},
-			["bagFrame"] = true,
-			["itemScale"] = 1,
 			["color"] = {
 			},
-			["showBags"] = true,
+			["itemScale"] = 1,
+			["bagFrame"] = true,
+			["bagBreak"] = false,
 		},
 		["vault"] = {
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
 			["hiddenBags"] = {
+			},
+			["borderColor"] = {
 			},
 		},
 		["guild"] = {
@@ -44,15 +44,15 @@ Bagnon_Sets = {
 		},
 		["bank"] = {
 			["y"] = 0,
-			["x"] = -502.998901367188,
-			["point"] = "BOTTOMRIGHT",
+			["x"] = 588.000732421875,
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {
 			},
-			["showBags"] = true,
 			["borderColor"] = {
 			},
+			["showBags"] = true,
 		},
 	},
 	["glowAlpha"] = 0.83,
@@ -60,23 +60,23 @@ Bagnon_Sets = {
 	},
 	["refrigeColor"] = {
 	},
-	["leatherColor"] = {
-	},
+	["emptySlots"] = true,
 	["mineColor"] = {
 	},
 	["inscribeColor"] = {
-	},
-	["tackleColor"] = {
-	},
-	["herbColor"] = {
-	},
-	["normalColor"] = {
-	},
-	["enchantColor"] = {
 	},
 	["players"] = {
 		["Proudmoore"] = {
 		},
 	},
-	["emptySlots"] = true,
+	["enchantColor"] = {
+	},
+	["normalColor"] = {
+	},
+	["herbColor"] = {
+	},
+	["tackleColor"] = {
+	},
+	["leatherColor"] = {
+	},
 }

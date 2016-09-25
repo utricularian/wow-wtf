@@ -6,32 +6,33 @@ SkadaDB = {
 	},
 	["profileKeys"] = {
 		["Sargosa - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Balticamber - Proudmoore"] = "Default",
 		["Nanotube - Uldum"] = "Default",
 		["Oninikanabo - Uldum"] = "Default",
 		["Yumesan - Elune"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
+		["Gulbob - Proudmoore"] = "Default",
 		["Yorunotobari - Uldum"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
+		["Binarycoffee - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
 		["Guayaki - Proudmoore"] = "Default",
 		["Gatorskin - Proudmoore"] = "Default",
-		["Binarycoffee - Proudmoore"] = "Default",
-		["Gulbob - Proudmoore"] = "Default",
-		["Kikoutate - Uldum"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["windows"] = {
 				{
-					["y"] = -198.495964050293,
+					["y"] = -144.495498657227,
 					["point"] = "LEFT",
 					["mode"] = "DPS",
 					["barwidth"] = 238.000030517578,
 					["background"] = {
 						["height"] = 193,
 					},
-					["x"] = 11.000771522522,
+					["x"] = 5.0007758140564,
 				}, -- [1]
 			},
 			["icon"] = {

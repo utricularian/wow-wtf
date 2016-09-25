@@ -1,42 +1,47 @@
 
 MasterPlanAG = {
 	["Proudmoore"] = {
-		["Audioteqnica"] = {
-			["class"] = "MAGE",
+		["Sargosa"] = {
+			["faction"] = "Horde",
+			["class"] = "ROGUE",
+		},
+		["Kikobank"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+		["Balticamber"] = {
+			["class"] = "WARLOCK",
+			["faction"] = "Horde",
+		},
+		["Transmetro"] = {
+			["class"] = "HUNTER",
 			["faction"] = "Horde",
 		},
 		["Kikoutate"] = {
-			["curOil"] = 25,
+			["class"] = "WARRIOR",
 			["recruitTime"] = 1474390532,
 			["summary"] = {
 				["inProgress"] = {
-					[256] = 1474419288,
-					[299] = 1474419286,
-					[180] = 1474394087,
-					[128] = 1474419292,
-					[674] = 1474419287,
-					[665] = 1474404886,
-					[138] = 1474392380,
+					[670] = 1474762362,
+					[305] = 1474762362,
+					[306] = 1474745968,
+					[258] = 1474762381,
+					[625] = 1474746189,
+					[519] = 1474733575,
+					[527] = 1474746187,
+					[147] = 1474737162,
 				},
 				["ti3"] = 128391,
 				["tt3"] = true,
 			},
-			["faction"] = "Horde",
-			["lastCacheTime"] = 1474390509,
-			["curRes"] = 8407,
-			["class"] = "WARRIOR",
-		},
-		["Sargosa"] = {
-			["class"] = "ROGUE",
+			["curOil"] = 275,
+			["lastCacheTime"] = 1474733235,
+			["curRes"] = 9930,
 			["faction"] = "Horde",
 		},
-		["Kikobank"] = {
-			["class"] = "MONK",
+		["Audioteqnica"] = {
 			["faction"] = "Horde",
-		},
-		["Gulbob"] = {
-			["faction"] = "Horde",
-			["class"] = "WARLOCK",
+			["class"] = "MAGE",
 		},
 		["Guayaki"] = {
 			["recruitTime"] = 1473884487,
@@ -51,18 +56,18 @@ MasterPlanAG = {
 				},
 			},
 			["curOil"] = 150,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1474299926,
 			["class"] = "PRIEST",
 			["curRes"] = 1866,
-			["lastCacheTime"] = 1474299926,
-		},
-		["Binarycoffee"] = {
-			["class"] = "SHAMAN",
 			["faction"] = "Horde",
 		},
-		["Balticamber"] = {
+		["Gulbob"] = {
 			["faction"] = "Horde",
 			["class"] = "WARLOCK",
+		},
+		["Binarycoffee"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
 		},
 	},
 	["Uldum"] = {
@@ -78,8 +83,8 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1471392849,
 		},
 		["Kikoutate"] = {
-			["faction"] = "Horde",
 			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 		},
 	},
 	["IgnoreRewards"] = {

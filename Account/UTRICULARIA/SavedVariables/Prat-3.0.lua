@@ -27,14 +27,14 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["localdefense"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 						["general"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 					},
 				},
@@ -64,12 +64,7 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_ChatTabs"] = {
-			["profiles"] = {
-				["Default"] = {
-					["on"] = true,
-				},
-			},
+		["Prat_Bubbles"] = {
 		},
 		["Prat_Scroll"] = {
 		},
@@ -85,17 +80,17 @@ Prat3DB = {
 		},
 		["Prat_Sounds"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_ChannelSticky"] = {
 		},
-		["Prat_History"] = {
-		},
 		["Prat_PopupMessage"] = {
+		},
+		["Prat_History"] = {
 		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -104,36 +99,42 @@ Prat3DB = {
 				["Default"] = {
 					["showBnet"] = false,
 					["showButtons"] = false,
-					["showMenu"] = false,
 					["showminimize"] = false,
+					["showMenu"] = false,
 				},
 			},
 		},
 		["Prat_ServerNames"] = {
 		},
-		["Prat_Bubbles"] = {
+		["Prat_ChatTabs"] = {
+			["profiles"] = {
+				["Default"] = {
+					["on"] = true,
+				},
+			},
 		},
 	},
 	["profileKeys"] = {
 		["Sargosa - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Balticamber - Proudmoore"] = "Default",
 		["Yumesan - Elune"] = "Default",
 		["Gatorskin - Proudmoore"] = "Default",
 		["Nanotube - Uldum"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
+		["Gulbob - Proudmoore"] = "Default",
 		["Yorunotobari - Uldum"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
+		["Binarycoffee - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
 		["Guayaki - Proudmoore"] = "Default",
 		["Oninikanabo - Uldum"] = "Default",
-		["Binarycoffee - Proudmoore"] = "Default",
-		["Gulbob - Proudmoore"] = "Default",
-		["Kikoutate - Uldum"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 				["ChatTabs"] = 3,
 				["AltNames"] = 2,
 				["Sounds"] = 2,
@@ -141,7 +142,7 @@ Prat3DB = {
 				["KeyBindings"] = 2,
 				["PopupMessage"] = 2,
 				["OriginalButtons"] = 2,
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 			},
 		},
 	},

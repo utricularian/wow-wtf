@@ -8,6 +8,7 @@ TradeSkillMaster_AuctioningDB = {
 		["Kikoutate"] = true,
 		["Kikobank"] = true,
 		["Guayaki"] = true,
+		["Transmetro"] = true,
 		["Gulbob"] = true,
 	},
 	["_scopeKeys"] = {
@@ -17,15 +18,16 @@ TradeSkillMaster_AuctioningDB = {
 			"Kikoutate - Proudmoore", -- [3]
 			"Sargosa - Proudmoore", -- [4]
 			"Gulbob - Proudmoore", -- [5]
+			"Transmetro - Proudmoore", -- [6]
 		},
-		["realm"] = {
-			"Proudmoore", -- [1]
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
-		["factionrealm"] = {
-			"Horde - Proudmoore", -- [1]
+		["realm"] = {
+			"Proudmoore", -- [1]
 		},
 	},
 	["g@ @priceColumn"] = 1,
@@ -36,14 +38,15 @@ TradeSkillMaster_AuctioningDB = {
 	["f@Horde - Proudmoore@whitelist"] = {
 	},
 	["g@ @scanCompleteSound"] = "LevelUp",
-	["g@ @matchWhitelist"] = true,
 	["g@ @cancelWithBid"] = false,
+	["g@ @matchWhitelist"] = true,
 	["_version"] = 1,
 	["_currentProfile"] = {
 		["Sargosa - Proudmoore"] = "Default",
-		["Kikoutate - Proudmoore"] = "Default",
+		["Kikobank - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
 		["Guayaki - Proudmoore"] = "Default",
-		["Kikobank - Proudmoore"] = "Default",
+		["Kikoutate - Proudmoore"] = "Default",
 	},
 }

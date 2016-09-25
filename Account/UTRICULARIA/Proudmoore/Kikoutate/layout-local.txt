@@ -1,9 +1,9 @@
 Version: 1
 Frame: GridLayoutFrame
 FrameLevel: 5
-Anchor: CENTER
-X: -380
-Y: -190
+Anchor: LEFT
+X: 435
+Y: -176
 W: 101
 H: 56
 Frame: LootHistoryFrame

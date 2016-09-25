@@ -11,10 +11,10 @@ AtlasLootCharDB = {
 	},
 	["GUI"] = {
 		["selected"] = {
-			"AtlasLoot_Cataclysm", -- [1]
-			"Firelands", -- [2]
-			7, -- [3]
-			1, -- [4]
+			"AtlasLoot_Legion", -- [1]
+			"AssaultOnVioletHold", -- [2]
+			8, -- [3]
+			6, -- [4]
 			0, -- [5]
 		},
 		["point"] = {
