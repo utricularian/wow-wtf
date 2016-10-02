@@ -25,9 +25,9 @@ SkadaDB = {
 		["Default"] = {
 			["windows"] = {
 				{
-					["y"] = -144.495498657227,
+					["y"] = -144.494110107422,
 					["point"] = "LEFT",
-					["mode"] = "DPS",
+					["mode"] = "Damage",
 					["barwidth"] = 238.000030517578,
 					["background"] = {
 						["height"] = 193,

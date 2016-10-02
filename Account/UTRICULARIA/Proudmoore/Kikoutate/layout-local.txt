@@ -2,8 +2,8 @@ Version: 1
 Frame: GridLayoutFrame
 FrameLevel: 5
 Anchor: LEFT
-X: 435
-Y: -176
+X: 266
+Y: -76
 W: 101
 H: 56
 Frame: LootHistoryFrame
@@ -20,3 +20,10 @@ X: 248
 Y: 111
 W: 920
 H: 600
+Frame: DBMMinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -136
+Y: -115
+W: 32
+H: 32

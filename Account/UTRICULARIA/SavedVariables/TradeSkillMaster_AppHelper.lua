@@ -2,12 +2,7 @@
 TradeSkillMaster_AppHelperDB = {
 	["analytics"] = {
 		["data"] = {
-			"[\"Auctioning\",\"POST_GROUP_START\",\"v3.0.13\",\"\",1473791148]", -- [1]
-			"[\"Auctioning\",\"POST_GROUP_START\",\"v3.0.13\",\"\",1473830198]", -- [2]
-			"[\"Auctioning\",\"POST_GROUP_START\",\"v3.0.13\",\"\",1473886722]", -- [3]
-			"[\"Auctioning\",\"QUICK_POST_START\",\"v3.0.13\",\"\",1473887112]", -- [4]
-			"[\"Auctioning\",\"QUICK_POST_START\",\"v3.0.13\",\"\",1473887211]", -- [5]
-			"[\"Auctioning\",\"QUICK_POST_START\",\"v3.0.13\",\"\",1474731159]", -- [6]
+			"[\"Auctioning\",\"QUICK_POST_START\",\"v3.0.13\",\"\",1474731159]", -- [1]
 		},
 		["updateTime"] = 1474731159,
 	},
@@ -16,16 +11,16 @@ TradeSkillMaster_AppHelperDB = {
 	},
 	["wowToken"] = {
 		["US"] = {
-			["data"] = 35469,
-			["key"] = 12353399,
-			["updateTime"] = 1474731396,
+			["key"] = 3646198,
+			["data"] = 35605,
+			["updateTime"] = 1475385919,
 		},
 	},
 	["blackMarket"] = {
 		["Proudmoore"] = {
-			["key"] = 7902170,
-			["data"] = "[]",
-			["updateTime"] = 1474435304,
+			["data"] = "[[13,69991,1,0,4220,200,4020,15,1475033663],[77,110672,1,1,3159,150,3009,20,1475033663]]",
+			["key"] = 1088825,
+			["updateTime"] = 1475033663,
 		},
 	},
 }

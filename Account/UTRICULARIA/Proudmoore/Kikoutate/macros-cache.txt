@@ -1,3 +1,7 @@
+VER 3 0100000000000003 "skin?" "INV_MISC_QUESTIONMARK"
+/run print(IsQuestFlaggedCompleted(44311)) 
+/run print(IsQuestFlaggedCompleted(44312)) 
+END
 VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

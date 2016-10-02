@@ -12,8 +12,8 @@ AtlasLootCharDB = {
 	["GUI"] = {
 		["selected"] = {
 			"AtlasLoot_Legion", -- [1]
-			"AssaultOnVioletHold", -- [2]
-			8, -- [3]
+			"TheArcway", -- [2]
+			nil, -- [3]
 			6, -- [4]
 			0, -- [5]
 		},
