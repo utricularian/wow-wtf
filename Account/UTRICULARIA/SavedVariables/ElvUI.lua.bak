@@ -1,0 +1,57 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Kikoutate - Proudmoore"] = "Kikoutate - Proudmoore",
+	},
+	["gold"] = {
+		["Proudmoore"] = {
+			["Kikoutate"] = 60947241,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["global"] = {
+		["uiScale"] = "1.0",
+	},
+	["profiles"] = {
+		["Kikoutate - Proudmoore"] = {
+			["general"] = {
+				["bordercolor"] = {
+					["b"] = 0.31,
+					["g"] = 0.31,
+					["r"] = 0.31,
+				},
+				["valuecolor"] = {
+					["b"] = 0.819,
+					["g"] = 0.513,
+					["r"] = 0.09,
+				},
+			},
+			["movers"] = {
+				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
+				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1076",
+				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
+				["ElvUF_RaidMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,427",
+				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
+				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
+			},
+			["actionbar"] = {
+				["backdropSpacingConverted"] = true,
+			},
+			["layoutSet"] = "dpsMelee",
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Kikoutate - Proudmoore"] = "Kikoutate - Proudmoore",
+	},
+	["profiles"] = {
+		["Kikoutate - Proudmoore"] = {
+			["theme"] = "classic",
+			["install_complete"] = "10.23",
+		},
+	},
+}

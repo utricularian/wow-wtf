@@ -43,9 +43,9 @@ Bagnon_Sets = {
 			},
 		},
 		["bank"] = {
-			["y"] = 0,
-			["x"] = -594.999145507813,
-			["point"] = "BOTTOMRIGHT",
+			["y"] = 35.9999389648438,
+			["x"] = 284.000518798828,
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 			},
 			["color"] = {

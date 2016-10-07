@@ -12,9 +12,9 @@ AtlasLootCharDB = {
 	["GUI"] = {
 		["selected"] = {
 			"AtlasLoot_Legion", -- [1]
-			"TheArcway", -- [2]
-			nil, -- [3]
-			6, -- [4]
+			"BlackRookHold", -- [2]
+			4, -- [3]
+			8, -- [4]
 			0, -- [5]
 		},
 		["point"] = {

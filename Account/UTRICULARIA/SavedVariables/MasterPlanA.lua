@@ -6,8 +6,8 @@ MasterPlanAG = {
 			["class"] = "ROGUE",
 		},
 		["Kikobank"] = {
-			["class"] = "MONK",
 			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 		["Balticamber"] = {
 			["class"] = "WARLOCK",
@@ -18,26 +18,24 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 		},
 		["Kikoutate"] = {
-			["recruitTime"] = 1474390532,
+			["class"] = "WARRIOR",
+			["recruitTime"] = 1475765083,
 			["summary"] = {
 				["ti1"] = 118529,
-				["tt1"] = true,
+				["tt1"] = 1475387395,
 				["inProgress"] = {
-					[115] = 1475405996,
-					[299] = 1475413196,
-					[539] = 1475449322,
-					[260] = 1475398797,
-					[738] = 1475386331,
-					[373] = 1475420397,
+					[162] = 1475770578,
+					[217] = 1475766978,
+					[126] = 1475779579,
+					[302] = 1475786779,
 				},
 				["ti3"] = 128391,
 				["tt3"] = true,
 			},
+			["curOil"] = 70,
+			["lastCacheTime"] = 1475765016,
+			["curRes"] = 9830,
 			["faction"] = "Horde",
-			["class"] = "WARRIOR",
-			["lastCacheTime"] = 1475384338,
-			["curRes"] = 9668,
-			["curOil"] = 100,
 		},
 		["Audioteqnica"] = {
 			["faction"] = "Horde",
@@ -87,5 +85,7 @@ MasterPlanAG = {
 			["class"] = "WARRIOR",
 			["faction"] = "Horde",
 		},
+	},
+	["IgnoreRewards"] = {
 	},
 }
