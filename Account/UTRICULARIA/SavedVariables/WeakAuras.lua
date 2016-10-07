@@ -53,11 +53,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -112,8 +112,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 2,
 			["inverse"] = false,
+			["numTriggers"] = 2,
 			["yOffset"] = -6.1035156250e-005,
 			["animation"] = {
 				["start"] = {
