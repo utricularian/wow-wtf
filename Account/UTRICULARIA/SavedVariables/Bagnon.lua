@@ -16,12 +16,12 @@ Bagnon_Sets = {
 			["x"] = -74.9989013671875,
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["showBags"] = true,
 			["itemScale"] = 1,
 			["bagFrame"] = true,
 			["bagBreak"] = false,
-			["showBags"] = true,
+			["borderColor"] = {
+			},
 		},
 		["vault"] = {
 			["color"] = {

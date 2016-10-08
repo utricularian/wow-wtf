@@ -6,11 +6,11 @@ SkadaDB = {
 	},
 	["profileKeys"] = {
 		["Sargosa - Proudmoore"] = "Default",
-		["Gatorskin - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Balticamber - Proudmoore"] = "Default",
-		["Yumesan - Elune"] = "Default",
-		["Oninikanabo - Uldum"] = "Default",
 		["Nanotube - Uldum"] = "Default",
+		["Oninikanabo - Uldum"] = "Default",
+		["Yumesan - Elune"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
 		["Yorunotobari - Uldum"] = "Default",
@@ -18,7 +18,7 @@ SkadaDB = {
 		["Binarycoffee - Proudmoore"] = "Default",
 		["Transmetro - Proudmoore"] = "Default",
 		["Guayaki - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
+		["Gatorskin - Proudmoore"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
