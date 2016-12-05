@@ -12,16 +12,15 @@ Bagnon_Sets = {
 			},
 			["scale"] = 1,
 			["alpha"] = 1,
-			["y"] = 139.000183105469,
-			["x"] = -74.9989013671875,
+			["y"] = 133.000198364258,
+			["x"] = -275.99853515625,
 			["color"] = {
 			},
-			["showBags"] = true,
+			["borderColor"] = {
+			},
 			["itemScale"] = 1,
 			["bagFrame"] = true,
 			["bagBreak"] = false,
-			["borderColor"] = {
-			},
 		},
 		["vault"] = {
 			["color"] = {
@@ -43,10 +42,11 @@ Bagnon_Sets = {
 			},
 		},
 		["bank"] = {
-			["y"] = 35.9999389648438,
-			["x"] = 284.000518798828,
+			["y"] = 86.9999389648438,
+			["x"] = 281.000732421875,
 			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
+				[-3] = false,
 			},
 			["color"] = {
 			},
@@ -66,6 +66,8 @@ Bagnon_Sets = {
 	["inscribeColor"] = {
 	},
 	["players"] = {
+		["Uldum"] = {
+		},
 		["Proudmoore"] = {
 		},
 	},

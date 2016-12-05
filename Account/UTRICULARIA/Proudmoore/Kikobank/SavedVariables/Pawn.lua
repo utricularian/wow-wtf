@@ -1,13 +1,12 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0013,
+	["LastVersion"] = 2.0106,
 	["LastPlayerFullName"] = "Kikobank-Proudmoore",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
 	["LastKeybindingsSet"] = 1,
 }
-PawnMrRobotScaleProviderOptions = nil
-PawnWowheadScaleProviderOptions = {
+PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",
-	["LastAdded"] = 5,
+	["LastAdded"] = 1,
 }

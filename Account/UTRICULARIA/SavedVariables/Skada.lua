@@ -6,11 +6,11 @@ SkadaDB = {
 	},
 	["profileKeys"] = {
 		["Sargosa - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
+		["Gatorskin - Proudmoore"] = "Default",
 		["Balticamber - Proudmoore"] = "Default",
-		["Nanotube - Uldum"] = "Default",
-		["Oninikanabo - Uldum"] = "Default",
 		["Yumesan - Elune"] = "Default",
+		["Oninikanabo - Uldum"] = "Default",
+		["Nanotube - Uldum"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
 		["Yorunotobari - Uldum"] = "Default",
@@ -18,14 +18,14 @@ SkadaDB = {
 		["Binarycoffee - Proudmoore"] = "Default",
 		["Transmetro - Proudmoore"] = "Default",
 		["Guayaki - Proudmoore"] = "Default",
-		["Gatorskin - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["windows"] = {
 				{
-					["y"] = 45.00634765625,
+					["y"] = 45.0065002441406,
 					["point"] = "LEFT",
 					["mode"] = "Damage",
 					["barwidth"] = 234.000045776367,
@@ -36,7 +36,7 @@ SkadaDB = {
 				}, -- [1]
 			},
 			["icon"] = {
-				["minimapPos"] = 52.3859709467846,
+				["minimapPos"] = 65.5013377355957,
 			},
 			["modulesBlocked"] = {
 				["Debuffs"] = true,
@@ -45,8 +45,8 @@ SkadaDB = {
 			},
 			["report"] = {
 				["channel"] = "instance_chat",
+				["mode"] = "DPS",
 			},
-			["hidesolo"] = true,
 			["setformat"] = 2,
 		},
 	},

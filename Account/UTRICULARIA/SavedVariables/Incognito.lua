@@ -1,11 +1,13 @@
 
 IncognitoDB = {
 	["profileKeys"] = {
-		["Sargosa - Proudmoore"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
+		["Sargosa - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Transmetro - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {

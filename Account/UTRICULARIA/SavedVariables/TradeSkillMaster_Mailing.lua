@@ -1,7 +1,22 @@
 
 TradeSkillMaster_MailingDB = {
 	["g@ @sendDelay"] = 0.5,
-	["g@ @sendItemsIndividually"] = false,
+	["c@Kikoutate - Uldum@goldKeepAmount"] = 1000000,
+	["c@Sargosa - Proudmoore@goldMailTarget"] = "",
+	["g@ @helpPlatesShown"] = {
+		["inbox"] = true,
+	},
+	["c@Transmetro - Proudmoore@goldKeepAmount"] = 1000000,
+	["_hash"] = 3711258,
+	["c@Gulbob - Proudmoore@goldKeepAmount"] = 1000000,
+	["f@Horde - Proudmoore@deMailTarget"] = "",
+	["c@Transmetro - Proudmoore@goldMailTarget"] = "",
+	["c@Guayaki - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @deleteEmptyNPCMail"] = false,
+	["g@ @displayMoneyCollected"] = true,
+	["g@ @deMaxQuality"] = 2,
+	["_version"] = 1,
+	["g@ @showReloadBtn"] = true,
 	["_scopeKeys"] = {
 		["char"] = {
 			"Kikobank - Proudmoore", -- [1]
@@ -10,53 +25,49 @@ TradeSkillMaster_MailingDB = {
 			"Sargosa - Proudmoore", -- [4]
 			"Gulbob - Proudmoore", -- [5]
 			"Transmetro - Proudmoore", -- [6]
+			"Audioteqnica - Proudmoore", -- [7]
+			"Kikoutate - Uldum", -- [8]
 		},
 		["factionrealm"] = {
 			"Horde - Proudmoore", -- [1]
+			"Horde - Uldum", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
 		["realm"] = {
 			"Proudmoore", -- [1]
+			"Uldum", -- [2]
 		},
 	},
-	["c@Transmetro - Proudmoore@goldKeepAmount"] = 1000000,
-	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
-	["g@ @helpPlatesShown"] = {
-		["inbox"] = true,
-	},
-	["g@ @inboxMessages"] = true,
-	["c@Kikoutate - Proudmoore@goldKeepAmount"] = 1000000,
 	["c@Kikobank - Proudmoore@goldMailTarget"] = "",
-	["_hash"] = 3711258,
 	["c@Gulbob - Proudmoore@goldMailTarget"] = "",
-	["g@ @defaultMailTab"] = true,
-	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
-	["f@Horde - Proudmoore@deMailTarget"] = "",
-	["c@Sargosa - Proudmoore@goldMailTarget"] = "",
+	["c@Kikoutate - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Audioteqnica - Proudmoore@goldMailTarget"] = "",
 	["g@ @autoCheck"] = true,
 	["g@ @resendDelay"] = 1,
-	["c@Transmetro - Proudmoore@goldMailTarget"] = "",
-	["c@Guayaki - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @sendMessages"] = true,
-	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
+	["c@Audioteqnica - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @sendItemsIndividually"] = false,
+	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
+	["c@Kikoutate - Uldum@goldMailTarget"] = "",
 	["g@ @defaultPage"] = 1,
-	["g@ @deleteEmptyNPCMail"] = false,
-	["g@ @openMailSound"] = "TSM_NO_SOUND",
-	["g@ @displayMoneyCollected"] = true,
+	["g@ @inboxMessages"] = true,
+	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
+	["g@ @defaultMailTab"] = true,
 	["g@ @keepMailSpace"] = 0,
+	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @sendMessages"] = true,
 	["c@Kikobank - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
 	["_currentProfile"] = {
-		["Sargosa - Proudmoore"] = "Default",
 		["Kikoutate - Proudmoore"] = "Default",
+		["Sargosa - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Transmetro - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
-	["c@Gulbob - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @deMaxQuality"] = 2,
-	["_version"] = 1,
-	["g@ @showReloadBtn"] = true,
+	["f@Horde - Uldum@deMailTarget"] = "",
 }

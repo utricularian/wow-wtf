@@ -3,11 +3,16 @@ AtlasLootCharDB = {
 	["__addonrevision"] = 4325,
 	["GUI"] = {
 		["selected"] = {
-			"AtlasLoot_Collections", -- [1]
-			"TIERSETS", -- [2]
-			18, -- [3]
-			3, -- [4]
+			"AtlasLoot_Legion", -- [1]
+			"BlackRookHold", -- [2]
+			4, -- [3]
+			1, -- [4]
 			0, -- [5]
+		},
+		["point"] = {
+			[3] = "CENTER",
+			[4] = -1.17877769470215,
+			[5] = 1.17870485782623,
 		},
 	},
 	["MiniMapButton"] = {
