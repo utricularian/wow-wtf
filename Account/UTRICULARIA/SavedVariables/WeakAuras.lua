@@ -57,11 +57,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -97,6 +97,27 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["auto"] = true,
 			["stickyDuration"] = false,
+			["id"] = "Rage",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["numTriggers"] = 3,
+			["yOffset"] = 86.0001220703125,
+			["inverse"] = false,
+			["xOffset"] = 141.999267578125,
 			["additional_triggers"] = {
 				{
 					["trigger"] = {
@@ -134,27 +155,6 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
-			["frameStrata"] = 1,
-			["width"] = 40,
-			["numTriggers"] = 3,
-			["yOffset"] = 86.0001220703125,
-			["inverse"] = false,
-			["xOffset"] = 141.999267578125,
-			["id"] = "Rage",
 			["displayIcon"] = 132345,
 			["cooldown"] = true,
 			["textColor"] = {
@@ -216,11 +216,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -274,8 +274,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 2,
 			["inverse"] = false,
+			["numTriggers"] = 2,
 			["yOffset"] = 85.000244140625,
 			["animation"] = {
 				["start"] = {
@@ -350,11 +350,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -447,8 +447,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 4,
 			["inverse"] = false,
+			["numTriggers"] = 4,
 			["yOffset"] = -6.1035156250e-005,
 			["animation"] = {
 				["start"] = {
@@ -523,11 +523,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -581,8 +581,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 45.9999504089356,
 			["stickyDuration"] = false,
-			["numTriggers"] = 2,
 			["inverse"] = false,
+			["numTriggers"] = 2,
 			["yOffset"] = 85.000244140625,
 			["animation"] = {
 				["start"] = {
@@ -659,11 +659,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -798,11 +798,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -891,8 +891,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 4,
 			["inverse"] = false,
+			["numTriggers"] = 4,
 			["yOffset"] = 0,
 			["animation"] = {
 				["start"] = {
@@ -967,11 +967,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -1025,8 +1025,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["inverse"] = false,
 			["numTriggers"] = 2,
+			["inverse"] = false,
 			["yOffset"] = -6.1035156250e-005,
 			["animation"] = {
 				["start"] = {
@@ -1096,20 +1096,20 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
+				["use_spec"] = true,
 				["use_talent"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -1120,7 +1120,7 @@ WeakAurasSaved = {
 					},
 				},
 				["use_combat"] = true,
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -1164,8 +1164,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 2,
 			["inverse"] = false,
+			["numTriggers"] = 2,
 			["yOffset"] = 85.0001220703125,
 			["animation"] = {
 				["start"] = {
@@ -1245,11 +1245,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["use_spec"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["use_spec"] = true,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -1303,8 +1303,8 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["stickyDuration"] = false,
-			["numTriggers"] = 2,
 			["inverse"] = false,
+			["numTriggers"] = 2,
 			["yOffset"] = 86.0001220703125,
 			["animation"] = {
 				["start"] = {

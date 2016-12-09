@@ -126,7 +126,11 @@ DBM_AllSavedOptions = {
 		["SpecialWarningFlashDura4"] = 0.7,
 		["SpecialWarningFlashRepeat1"] = false,
 		["AdvancedAutologBosses"] = false,
-		["HUDSize4"] = 5,
+		["SpecialWarningFlashCol3"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
 		["WarningColors"] = {
 			{
 				["r"] = 0.411764705882353,
@@ -157,11 +161,7 @@ DBM_AllSavedOptions = {
 		["HUDTexture3"] = "highlight",
 		["HUDColorOverride"] = false,
 		["ModelSoundValue"] = "Short",
-		["HUDColor3"] = {
-			1, -- [1]
-			0.5, -- [2]
-			0, -- [3]
-		},
+		["FilterSelfHud"] = true,
 		["AutoCorrectTimer"] = false,
 		["FilterInterrupt"] = true,
 		["RangeFrameRadarPoint"] = "CENTER",
@@ -170,12 +170,12 @@ DBM_AllSavedOptions = {
 		["DontRestoreRange"] = false,
 		["RangeFrameUpdates"] = "Average",
 		["CountdownVoice3v2"] = "HoTS_R",
-		["RoleSpecAlert"] = true,
+		["ShortTimerText"] = true,
 		["WarningY"] = 260,
 		["CustomSounds"] = 0,
 		["InfoFrameLines"] = 0,
 		["SpecialWarningFlashRepeat3"] = true,
-		["ShortTimerText"] = true,
+		["RoleSpecAlert"] = true,
 		["WhisperStats"] = false,
 		["VoiceOverSpecW2"] = "DefaultOnly",
 		["TalkingHeadFilter"] = "Never",
@@ -184,8 +184,8 @@ DBM_AllSavedOptions = {
 		["DontPlayPTCountdown"] = false,
 		["HealthFrameWidth"] = 200,
 		["HPFrameMaxEntries"] = 5,
-		["WarningIconLeft"] = true,
-		["RangeFrameSound1"] = "none",
+		["ShowEngageMessage"] = true,
+		["RangeFrameLocked"] = false,
 		["HPFrameY"] = 50,
 		["WarningFontSize"] = 20,
 		["HUDTexture2"] = "highlight",
@@ -204,13 +204,13 @@ DBM_AllSavedOptions = {
 		["DontSetIcons"] = false,
 		["BigBrotherAnnounceToRaid"] = false,
 		["WarningFontShadow"] = true,
-		["SpecialWarningFlashRepeat4"] = false,
+		["CountdownVoice"] = "Corsica",
 		["WarningDuration"] = 4,
 		["HUDAlpha2"] = 0.5,
-		["SpecialWarningFlashRepeat2"] = false,
+		["DontShowUserTimers"] = false,
 		["HideBossEmoteFrame"] = true,
 		["SpecialWarningFlashRepeat5"] = true,
-		["DisableStatusWhisper"] = false,
+		["AutoRespond"] = true,
 		["HealthFrameGrowUp"] = false,
 		["FilterTankSpec"] = true,
 		["RangeFrameFrames"] = "radar",
@@ -222,34 +222,34 @@ DBM_AllSavedOptions = {
 		["ShowDefeatMessage"] = true,
 		["HUDAlphaOverride"] = false,
 		["DontShowRangeFrame"] = false,
-		["AutoRespond"] = true,
+		["DisableStatusWhisper"] = false,
 		["InfoFrameShowSelf"] = false,
 		["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
-		["DontShowUserTimers"] = false,
-		["CountdownVoice"] = "Corsica",
+		["SpecialWarningFlashRepeat2"] = false,
+		["SpecialWarningFlashRepeat4"] = false,
 		["DontShowBossTimers"] = false,
-		["SpecialWarningFontStyle"] = "THICKOUTLINE",
 		["HUDTexture4"] = "highlight",
-		["RangeFrameLocked"] = false,
-		["ShowEngageMessage"] = true,
+		["SpecialWarningFontStyle"] = "THICKOUTLINE",
+		["RangeFrameSound1"] = "none",
+		["WarningIconLeft"] = true,
 		["WorldBossNearAlert"] = false,
-		["WarningX"] = 0,
 		["DontShowBossAnnounces"] = false,
+		["WarningX"] = 0,
 		["SpecialWarningFlashRepeatAmount"] = 2,
 		["AutoAcceptFriendInvite"] = false,
 		["WarningIconChat"] = true,
-		["FilterSelfHud"] = true,
+		["HUDColor3"] = {
+			1, -- [1]
+			0.5, -- [2]
+			0, -- [3]
+		},
 		["HideGuildChallengeUpdates"] = true,
 		["SpecialWarningSound5"] = "Sound\\Creature\\Loathstare\\Loa_Naxx_Aggro02.ogg",
 		["DontSendYells"] = false,
 		["ShowPizzaMessage"] = true,
 		["RangeFrameSound2"] = "none",
 		["HideTooltips"] = false,
-		["SpecialWarningFlashCol3"] = {
-			1, -- [1]
-			0, -- [2]
-			0, -- [3]
-		},
+		["HUDSize4"] = 5,
 		["SpecialWarningFlashAlph4"] = 0.4,
 		["Enabled"] = true,
 		["SpecialWarningFlashAlph2"] = 0.3,

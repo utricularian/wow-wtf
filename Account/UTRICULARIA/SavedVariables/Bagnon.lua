@@ -14,9 +14,9 @@ Bagnon_Sets = {
 			["alpha"] = 1,
 			["y"] = 133.000198364258,
 			["x"] = -275.99853515625,
-			["color"] = {
-			},
 			["borderColor"] = {
+			},
+			["color"] = {
 			},
 			["itemScale"] = 1,
 			["bagFrame"] = true,
