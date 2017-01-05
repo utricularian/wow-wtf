@@ -2,65 +2,65 @@
 MasterPlanAG = {
 	["Proudmoore"] = {
 		["Sargosa"] = {
-			["faction"] = "Horde",
 			["class"] = "ROGUE",
+			["faction"] = "Horde",
 		},
 		["Kikobank"] = {
 			["class"] = "MONK",
 			["faction"] = "Horde",
 		},
 		["Balticamber"] = {
-			["class"] = "WARLOCK",
 			["faction"] = "Horde",
+			["class"] = "WARLOCK",
 		},
 		["Transmetro"] = {
-			["class"] = "HUNTER",
 			["faction"] = "Horde",
+			["class"] = "HUNTER",
 		},
 		["Kikoutate"] = {
+			["curOil"] = 140,
 			["recruitTime"] = 1476283898,
 			["summary"] = {
 				["ti1"] = 118529,
-				["ti3"] = 128391,
-				["tt3"] = true,
 				["tt1"] = true,
+				["tt3"] = true,
+				["ti3"] = 128391,
 			},
-			["curOil"] = 140,
-			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 			["lastCacheTime"] = 1478476236,
 			["curRes"] = 10000,
-			["faction"] = "Horde",
+			["class"] = "WARRIOR",
 		},
-		["Audioteqnica"] = {
-			["class"] = "MAGE",
+		["Binarycoffee"] = {
+			["class"] = "SHAMAN",
 			["faction"] = "Horde",
 		},
 		["Guayaki"] = {
 			["recruitTime"] = 1475353301,
 			["summary"] = {
 				["inProgress"] = {
-					[272] = 1475374838,
+					[116] = 1475382037,
 					[271] = 1475374836,
 					[138] = 1475358818,
 					[184] = 1475358818,
-					[116] = 1475382037,
-					[300] = 1475382036,
 					[365] = 1475382037,
+					[300] = 1475382036,
+					[272] = 1475374838,
 				},
 			},
 			["curOil"] = 175,
-			["lastCacheTime"] = 1475353252,
+			["faction"] = "Horde",
 			["class"] = "PRIEST",
 			["curRes"] = 1947,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1475353252,
 		},
 		["Gulbob"] = {
-			["faction"] = "Horde",
 			["class"] = "WARLOCK",
-		},
-		["Binarycoffee"] = {
 			["faction"] = "Horde",
-			["class"] = "SHAMAN",
+		},
+		["Audioteqnica"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
 		},
 	},
 	["Uldum"] = {
@@ -76,8 +76,10 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1471392849,
 		},
 		["Kikoutate"] = {
-			["class"] = "WARRIOR",
 			["faction"] = "Horde",
+			["class"] = "WARRIOR",
 		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

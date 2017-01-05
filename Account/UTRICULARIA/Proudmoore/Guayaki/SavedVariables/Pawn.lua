@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0108,
+	["LastVersion"] = 2.011,
 	["LastPlayerFullName"] = "Guayaki-Proudmoore",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,

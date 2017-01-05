@@ -29,10 +29,10 @@ RematchSettings = {
 	["FavoriteFilters"] = {
 	},
 	["Sort"] = {
-		["Order"] = 1,
+		["Order"] = 2,
 		["FavoritesFirst"] = true,
 	},
-	["JournalPanel"] = 1,
+	["JournalPanel"] = 2,
 	["BackupCount"] = 0,
 	["TeamGroups"] = {
 		{
@@ -47,41 +47,74 @@ RematchSettings = {
 		},
 		["Rarity"] = {
 		},
-		["Tough"] = {
-		},
-		["Level"] = {
-		},
-		["Sources"] = {
-			[10] = true,
-		},
-		["Breed"] = {
-		},
-		["Similar"] = {
-		},
-		["Script"] = {
+		["Favorite"] = {
 		},
 		["Collected"] = {
 		},
-		["Favorite"] = {
+		["Sources"] = {
+		},
+		["Breed"] = {
+		},
+		["Script"] = {
+		},
+		["Similar"] = {
+		},
+		["Level"] = {
+		},
+		["Tough"] = {
 		},
 		["Types"] = {
 		},
 	},
+	["PetCardYPos"] = 956.047058105469,
 	["PetCardXPos"] = 390.212158203125,
 	["CollapsedOptHeaders"] = {
 	},
-	["PetCardYPos"] = 956.047058105469,
+	["JournalUsed"] = true,
 	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
-	},
-	["JournalUsed"] = true,
-	["CornerPos"] = "BOTTOMLEFT",
-	["LevelingSlots"] = {
-	},
-	["LevelingQueue"] = {
+		["BattlePet-0-00000575482A"] = {
+			1, -- [1]
+			true, -- [2]
+			1722, -- [3]
+			23, -- [4]
+			1066, -- [5]
+			216, -- [6]
+			182, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000572A033"] = {
+			1, -- [1]
+			true, -- [2]
+			1931, -- [3]
+			4, -- [4]
+			295, -- [5]
+			49, -- [6]
+			46, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-000005877607"] = {
+			1, -- [1]
+			true, -- [2]
+			1248, -- [3]
+			5, -- [4]
+			384, -- [5]
+			55, -- [6]
+			54, -- [7]
+			4, -- [8]
+		},
 	},
 	["YPos"] = 237.999938964844,
+	["CornerPos"] = "BOTTOMLEFT",
+	["LevelingQueue"] = {
+		"BattlePet-0-000005877607", -- [1]
+		"BattlePet-0-00000572A033", -- [2]
+		"BattlePet-0-00000575482A", -- [3]
+	},
+	["LevelingSlots"] = {
+	},
+	["UseTypeBar"] = true,
 	["SelectedTab"] = 1,
 	["PetNotes"] = {
 	},

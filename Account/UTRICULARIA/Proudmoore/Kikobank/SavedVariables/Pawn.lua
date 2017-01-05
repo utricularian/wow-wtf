@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0106,
+	["LastVersion"] = 2.011,
 	["LastPlayerFullName"] = "Kikobank-Proudmoore",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

@@ -6,6 +6,13 @@ X: 0
 Y: 0
 W: 365
 H: 240
+Frame: LootHistoryFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -310
+Y: -74
+W: 210
+H: 208
 Frame: AtlasLoot_GUI-Frame
 FrameLevel: 1
 Anchor: CENTER
@@ -33,11 +40,4 @@ Anchor: TOPLEFT
 X: 272
 Y: 0
 W: 260
-H: 416
-Frame: LootHistoryFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -310
-Y: -74
-W: 210
-H: 208
+H: 428

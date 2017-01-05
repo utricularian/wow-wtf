@@ -6,11 +6,11 @@ TradeSkillMaster_AuctioningDB = {
 	["f@Horde - Proudmoore@player"] = {
 		["Sargosa"] = true,
 		["Kikoutate"] = true,
-		["Audioteqnica"] = true,
 		["Gulbob"] = true,
+		["Kikobank"] = true,
 		["Guayaki"] = true,
 		["Transmetro"] = true,
-		["Kikobank"] = true,
+		["Audioteqnica"] = true,
 	},
 	["_scopeKeys"] = {
 		["char"] = {
@@ -23,16 +23,16 @@ TradeSkillMaster_AuctioningDB = {
 			"Audioteqnica - Proudmoore", -- [7]
 			"Kikoutate - Uldum", -- [8]
 		},
-		["factionrealm"] = {
-			"Horde - Proudmoore", -- [1]
-			"Horde - Uldum", -- [2]
+		["realm"] = {
+			"Proudmoore", -- [1]
+			"Uldum", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
-		["realm"] = {
-			"Proudmoore", -- [1]
-			"Uldum", -- [2]
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+			"Horde - Uldum", -- [2]
 		},
 	},
 	["g@ @priceColumn"] = 1,
@@ -41,24 +41,24 @@ TradeSkillMaster_AuctioningDB = {
 	["g@ @helpPlatesShown"] = {
 		["selection"] = true,
 	},
-	["g@ @cancelWithBid"] = false,
-	["_hash"] = 5870975,
 	["f@Horde - Uldum@player"] = {
 		["Kikoutate"] = true,
 	},
-	["g@ @matchWhitelist"] = true,
-	["g@ @scanCompleteSound"] = "LevelUp",
+	["_hash"] = 5870975,
 	["f@Horde - Proudmoore@whitelist"] = {
 	},
+	["g@ @scanCompleteSound"] = "LevelUp",
+	["g@ @matchWhitelist"] = true,
+	["g@ @cancelWithBid"] = false,
 	["_version"] = 1,
 	["_currentProfile"] = {
-		["Kikobank - Proudmoore"] = "Default",
+		["Kikoutate - Proudmoore"] = "Default",
 		["Sargosa - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
-		["Transmetro - Proudmoore"] = "Default",
 		["Kikoutate - Uldum"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
-		["Kikoutate - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
+		["Kikobank - Proudmoore"] = "Default",
 	},
 }
