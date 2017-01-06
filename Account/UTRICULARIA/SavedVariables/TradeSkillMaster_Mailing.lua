@@ -28,16 +28,16 @@ TradeSkillMaster_MailingDB = {
 			"Audioteqnica - Proudmoore", -- [7]
 			"Kikoutate - Uldum", -- [8]
 		},
-		["realm"] = {
-			"Proudmoore", -- [1]
-			"Uldum", -- [2]
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+			"Horde - Uldum", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
-		["factionrealm"] = {
-			"Horde - Proudmoore", -- [1]
-			"Horde - Uldum", -- [2]
+		["realm"] = {
+			"Proudmoore", -- [1]
+			"Uldum", -- [2]
 		},
 	},
 	["c@Kikobank - Proudmoore@goldMailTarget"] = "",
@@ -47,27 +47,27 @@ TradeSkillMaster_MailingDB = {
 	["g@ @autoCheck"] = true,
 	["g@ @resendDelay"] = 1,
 	["c@Audioteqnica - Proudmoore@goldKeepAmount"] = 1000000,
-	["_currentProfile"] = {
-		["Kikobank - Proudmoore"] = "Default",
-		["Sargosa - Proudmoore"] = "Default",
-		["Kikoutate - Uldum"] = "Default",
-		["Gulbob - Proudmoore"] = "Default",
-		["Transmetro - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
-		["Kikoutate - Proudmoore"] = "Default",
-	},
-	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
+	["g@ @sendItemsIndividually"] = false,
+	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
 	["c@Kikoutate - Uldum@goldMailTarget"] = "",
 	["g@ @defaultPage"] = 1,
-	["g@ @openMailSound"] = "TSM_NO_SOUND",
-	["c@Kikobank - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @sendMessages"] = true,
-	["g@ @keepMailSpace"] = 0,
-	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @defaultMailTab"] = true,
 	["g@ @inboxMessages"] = true,
-	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
-	["g@ @sendItemsIndividually"] = false,
+	["c@Kikobank - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @defaultMailTab"] = true,
+	["g@ @sendMessages"] = true,
+	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @keepMailSpace"] = 0,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
+	["_currentProfile"] = {
+		["Kikoutate - Proudmoore"] = "Default",
+		["Sargosa - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
+		["Gulbob - Proudmoore"] = "Default",
+		["Kikobank - Proudmoore"] = "Default",
+	},
 	["f@Horde - Uldum@deMailTarget"] = "",
 }

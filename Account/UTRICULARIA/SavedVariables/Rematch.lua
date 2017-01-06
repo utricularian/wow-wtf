@@ -47,21 +47,21 @@ RematchSettings = {
 		},
 		["Rarity"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
 		["Sources"] = {
 		},
 		["Breed"] = {
 		},
-		["Script"] = {
-		},
 		["Similar"] = {
 		},
-		["Level"] = {
+		["Script"] = {
 		},
-		["Tough"] = {
+		["Collected"] = {
+		},
+		["Favorite"] = {
 		},
 		["Types"] = {
 		},
@@ -105,16 +105,16 @@ RematchSettings = {
 			4, -- [8]
 		},
 	},
-	["YPos"] = 237.999938964844,
+	["UseTypeBar"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
+	["LevelingSlots"] = {
+	},
 	["LevelingQueue"] = {
 		"BattlePet-0-000005877607", -- [1]
 		"BattlePet-0-00000572A033", -- [2]
 		"BattlePet-0-00000575482A", -- [3]
 	},
-	["LevelingSlots"] = {
-	},
-	["UseTypeBar"] = true,
+	["YPos"] = 237.999938964844,
 	["SelectedTab"] = 1,
 	["PetNotes"] = {
 	},

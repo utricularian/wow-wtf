@@ -2,65 +2,65 @@
 MasterPlanAG = {
 	["Proudmoore"] = {
 		["Sargosa"] = {
-			["class"] = "ROGUE",
 			["faction"] = "Horde",
+			["class"] = "ROGUE",
 		},
 		["Kikobank"] = {
-			["class"] = "MONK",
 			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 		["Balticamber"] = {
-			["faction"] = "Horde",
 			["class"] = "WARLOCK",
+			["faction"] = "Horde",
 		},
 		["Transmetro"] = {
-			["faction"] = "Horde",
 			["class"] = "HUNTER",
+			["faction"] = "Horde",
 		},
 		["Kikoutate"] = {
-			["curOil"] = 140,
 			["recruitTime"] = 1476283898,
 			["summary"] = {
 				["ti1"] = 118529,
-				["tt1"] = true,
-				["tt3"] = true,
 				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt1"] = true,
 			},
 			["faction"] = "Horde",
+			["class"] = "WARRIOR",
 			["lastCacheTime"] = 1478476236,
 			["curRes"] = 10000,
-			["class"] = "WARRIOR",
+			["curOil"] = 140,
 		},
-		["Binarycoffee"] = {
-			["class"] = "SHAMAN",
+		["Audioteqnica"] = {
+			["class"] = "MAGE",
 			["faction"] = "Horde",
 		},
 		["Guayaki"] = {
 			["recruitTime"] = 1475353301,
 			["summary"] = {
 				["inProgress"] = {
-					[116] = 1475382037,
+					[272] = 1475374838,
 					[271] = 1475374836,
 					[138] = 1475358818,
 					[184] = 1475358818,
-					[365] = 1475382037,
+					[116] = 1475382037,
 					[300] = 1475382036,
-					[272] = 1475374838,
+					[365] = 1475382037,
 				},
 			},
 			["curOil"] = 175,
-			["faction"] = "Horde",
+			["lastCacheTime"] = 1475353252,
 			["class"] = "PRIEST",
 			["curRes"] = 1947,
-			["lastCacheTime"] = 1475353252,
+			["faction"] = "Horde",
 		},
 		["Gulbob"] = {
+			["faction"] = "Horde",
 			["class"] = "WARLOCK",
-			["faction"] = "Horde",
 		},
-		["Audioteqnica"] = {
+		["Binarycoffee"] = {
 			["faction"] = "Horde",
-			["class"] = "MAGE",
+			["class"] = "SHAMAN",
 		},
 	},
 	["Uldum"] = {
@@ -76,10 +76,8 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1471392849,
 		},
 		["Kikoutate"] = {
-			["faction"] = "Horde",
 			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 		},
-	},
-	["IgnoreRewards"] = {
 	},
 }

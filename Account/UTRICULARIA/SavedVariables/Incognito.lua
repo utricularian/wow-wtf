@@ -1,14 +1,14 @@
 
 IncognitoDB = {
 	["profileKeys"] = {
-		["Kikobank - Proudmoore"] = "Default",
+		["Kikoutate - Proudmoore"] = "Default",
 		["Sargosa - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
 		["Kikoutate - Uldum"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
-		["Transmetro - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
-		["Kikoutate - Proudmoore"] = "Default",
+		["Kikobank - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

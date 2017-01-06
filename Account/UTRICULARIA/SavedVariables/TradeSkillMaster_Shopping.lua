@@ -1,8 +1,17 @@
 
 TradeSkillMaster_ShoppingDB = {
-	["g@ @sniperCustomPrice"] = "0c",
-	["g@ @maxDeSearchPercent"] = 1,
-	["g@ @postUndercut"] = "1c",
+	["_currentProfile"] = {
+		["Kikoutate - Proudmoore"] = "Default",
+		["Sargosa - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
+		["Kikoutate - Uldum"] = "Default",
+		["Gulbob - Proudmoore"] = "Default",
+		["Kikobank - Proudmoore"] = "Default",
+	},
+	["_version"] = 3,
+	["g@ @sniperVendorPrice"] = true,
 	["g@ @postBidPercent"] = 0.95,
 	["_scopeKeys"] = {
 		["char"] = {
@@ -15,23 +24,26 @@ TradeSkillMaster_ShoppingDB = {
 			"Audioteqnica - Proudmoore", -- [7]
 			"Kikoutate - Uldum", -- [8]
 		},
-		["realm"] = {
-			"Proudmoore", -- [1]
-			"Uldum", -- [2]
+		["factionrealm"] = {
+			"Horde - Proudmoore", -- [1]
+			"Horde - Uldum", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
-		["factionrealm"] = {
-			"Horde - Proudmoore", -- [1]
-			"Horde - Uldum", -- [2]
+		["realm"] = {
+			"Proudmoore", -- [1]
+			"Uldum", -- [2]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
-	["g@ @sniperVendorPrice"] = true,
+	["g@ @postUndercut"] = "1c",
+	["g@ @minDeSearchLvl"] = 1,
+	["g@ @maxDeSearchLvl"] = 735,
 	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
@@ -705,19 +717,7 @@ TradeSkillMaster_ShoppingDB = {
 		}, -- [110]
 	},
 	["_hash"] = 1861581,
-	["g@ @marketValueSource"] = "dbmarket",
-	["g@ @maxDeSearchLvl"] = 735,
-	["g@ @minDeSearchLvl"] = 1,
 	["g@ @normalPostPrice"] = "150% dbmarket",
-	["_version"] = 3,
-	["_currentProfile"] = {
-		["Kikobank - Proudmoore"] = "Default",
-		["Sargosa - Proudmoore"] = "Default",
-		["Kikoutate - Uldum"] = "Default",
-		["Gulbob - Proudmoore"] = "Default",
-		["Transmetro - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
-		["Kikoutate - Proudmoore"] = "Default",
-	},
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @sniperCustomPrice"] = "0c",
 }
