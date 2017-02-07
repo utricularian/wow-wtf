@@ -2,7 +2,6 @@
 TradeSkillMaster_AppHelperDB = {
 	["analytics"] = {
 		["data"] = {
-			"[\"TradeSkillMaster\",\"ERROR\",\"v3.6.20\",\"...dOns\\Blizzard_TradeSkillUI\\Blizzard_TradeSkillUI.lua:133: bad argument #2 to 'SetFormattedText' (string expected, got nil)\",1482626088]", -- [1]
 		},
 		["updateTime"] = 1482626088,
 	},
@@ -11,9 +10,9 @@ TradeSkillMaster_AppHelperDB = {
 	},
 	["wowToken"] = {
 		["US"] = {
-			["key"] = 12257616,
-			["data"] = 59290,
-			["updateTime"] = 1483503727,
+			["data"] = 60053,
+			["key"] = 15487432,
+			["updateTime"] = 1486358017,
 		},
 	},
 	["blackMarket"] = {

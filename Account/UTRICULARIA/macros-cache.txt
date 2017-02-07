@@ -1,14 +1,24 @@
+VER 3 0000000000000009 "Artifact Colors" "133035"
+/run local n=0 for i=1,11 do local  _,_,_,a,b=GetAchievementCriteriaInfo(11152,i) n=n+a end local _,_,_,c,d=GetAchievementCriteriaInfo(11153,1) local _,_,_,e,f=GetAchievementCriteriaInfo(11154,1) print("D/WQ/HK: "..n.."/"..c.."/"..e)
+END
 VER 3 0000000000000006 "asd" "Ability_Creature_Cursed_03"
 /rw G1 BACK OUT
 END
 VER 3 0000000000000007 "asda" "Ability_Creature_Disease_04"
 /rw G2 BACK OUT
 END
+VER 3 000000000000000B "Dispel" "SPELL_HOLY_DISPELMAGIC"
+#showtooltip
+/cast [@mouseover,noharm,exists] Purify;[@mouseover,harm,exists] Dispel Magic;[noharm] Purify ;[harm] Dispel Magic 
+END
 VER 3 0000000000000002 "Gather/Mine" "Ability_Ambush"
 /castsequence Find Herbs, Find Minerals
 END
 VER 3 0000000000000001 "Mounted" "INV_Misc_QuestionMark"
 /script ChatFrame1:AddMessage(string.join(" ", "|cFF33FF99Mounted|r:", 'You should really change the combat macro to something more usefull!'))
+END
+VER 3 000000000000000A "raidtarget" "1353663"
+/script SetRaidTarget("mouseover",8)
 END
 VER 3 0000000000000003 "Skull" "INV_Misc_QuestionMark"
 /run SetRaidTarget("mouseover", 1)

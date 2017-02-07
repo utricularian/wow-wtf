@@ -7,20 +7,21 @@ Bagnon_Sets = {
 	["global"] = {
 		["inventory"] = {
 			["enabled"] = true,
-			["point"] = "BOTTOMRIGHT",
+			["point"] = "TOPRIGHT",
 			["hiddenBags"] = {
 			},
 			["scale"] = 1,
 			["alpha"] = 1,
-			["y"] = 228.978515625,
-			["x"] = -197.462036132813,
-			["borderColor"] = {
-			},
+			["y"] = -161.687622070313,
+			["x"] = -438.33447265625,
 			["color"] = {
+			},
+			["borderColor"] = {
 			},
 			["itemScale"] = 1,
 			["bagFrame"] = true,
 			["bagBreak"] = false,
+			["showBags"] = true,
 		},
 		["vault"] = {
 			["color"] = {
@@ -31,8 +32,8 @@ Bagnon_Sets = {
 			},
 		},
 		["guild"] = {
-			["y"] = 396.499938964844,
-			["x"] = 487,
+			["y"] = 384.833282470703,
+			["x"] = 472.833435058594,
 			["point"] = "BOTTOMLEFT",
 			["borderColor"] = {
 			},
@@ -42,9 +43,9 @@ Bagnon_Sets = {
 			},
 		},
 		["bank"] = {
-			["y"] = 66.1666107177734,
-			["x"] = 462.667327880859,
-			["point"] = "BOTTOMLEFT",
+			["y"] = -73.16650390625,
+			["x"] = 155.16748046875,
+			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
 				[-3] = false,
 			},

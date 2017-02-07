@@ -30,9 +30,8 @@ MasterPlan: enabled
 MasterPlanA: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-Skada: enabled
+Skada: disabled
 TradeSkillMaster: enabled
 TradeSkillMaster_AppHelper: enabled
 TradeSkillMaster_AuctionDB: enabled
 TradeSkillMaster_Auctioning: enabled
-TradeSkillMaster_Shopping: enabled

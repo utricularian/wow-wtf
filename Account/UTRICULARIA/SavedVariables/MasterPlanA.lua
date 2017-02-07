@@ -5,9 +5,13 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 			["class"] = "ROGUE",
 		},
-		["Kikobank"] = {
+		["Antihistamin"] = {
 			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+		["Kikobank"] = {
 			["class"] = "MONK",
+			["faction"] = "Horde",
 		},
 		["Balticamber"] = {
 			["class"] = "WARLOCK",
@@ -31,11 +35,20 @@ MasterPlanAG = {
 			["curRes"] = 10000,
 			["curOil"] = 140,
 		},
+		["Gulbob"] = {
+			["faction"] = "Horde",
+			["class"] = "WARLOCK",
+		},
 		["Audioteqnica"] = {
 			["class"] = "MAGE",
 			["faction"] = "Horde",
 		},
+		["Nanotube"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
 		["Guayaki"] = {
+			["lastCacheTime"] = 1475353252,
 			["recruitTime"] = 1475353301,
 			["summary"] = {
 				["inProgress"] = {
@@ -48,15 +61,14 @@ MasterPlanAG = {
 					[365] = 1475382037,
 				},
 			},
-			["curOil"] = 175,
-			["lastCacheTime"] = 1475353252,
+			["faction"] = "Horde",
 			["class"] = "PRIEST",
 			["curRes"] = 1947,
-			["faction"] = "Horde",
+			["curOil"] = 175,
 		},
-		["Gulbob"] = {
+		["Coronawlime"] = {
+			["class"] = "DEATHKNIGHT",
 			["faction"] = "Horde",
-			["class"] = "WARLOCK",
 		},
 		["Binarycoffee"] = {
 			["faction"] = "Horde",
@@ -64,6 +76,14 @@ MasterPlanAG = {
 		},
 	},
 	["Uldum"] = {
+		["Nanotube"] = {
+			["faction"] = "Horde",
+			["class"] = "PALADIN",
+		},
+		["Kikoutate"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Horde",
+		},
 		["Yorunotobari"] = {
 			["summary"] = {
 				["inProgress"] = {
@@ -75,9 +95,7 @@ MasterPlanAG = {
 			["curRes"] = 369,
 			["lastCacheTime"] = 1471392849,
 		},
-		["Kikoutate"] = {
-			["class"] = "WARRIOR",
-			["faction"] = "Horde",
-		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

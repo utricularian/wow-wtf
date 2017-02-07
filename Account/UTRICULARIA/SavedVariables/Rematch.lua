@@ -74,6 +74,16 @@ RematchSettings = {
 	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
+		["BattlePet-0-0000059222B6"] = {
+			1, -- [1]
+			true, -- [2]
+			1920, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000575482A"] = {
 			1, -- [1]
 			true, -- [2]
@@ -110,9 +120,10 @@ RematchSettings = {
 	["LevelingSlots"] = {
 	},
 	["LevelingQueue"] = {
-		"BattlePet-0-000005877607", -- [1]
-		"BattlePet-0-00000572A033", -- [2]
-		"BattlePet-0-00000575482A", -- [3]
+		"BattlePet-0-0000059222B6", -- [1]
+		"BattlePet-0-000005877607", -- [2]
+		"BattlePet-0-00000572A033", -- [3]
+		"BattlePet-0-00000575482A", -- [4]
 	},
 	["YPos"] = 237.999938964844,
 	["SelectedTab"] = 1,

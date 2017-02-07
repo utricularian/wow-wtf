@@ -41,7 +41,7 @@ Dominos_ActionSets: enabled
 XLoot: disabled
 Prat-3.0_Libraries: enabled
 Prat-3.0: enabled
-Skada: enabled
+Skada: disabled
 Auctionator: enabled
 ArkInventory: disabled
 ArkInventoryConfig: enabled
@@ -63,4 +63,3 @@ TradeSkillMaster: enabled
 TradeSkillMaster_AppHelper: enabled
 TradeSkillMaster_AuctionDB: enabled
 TradeSkillMaster_Auctioning: enabled
-TradeSkillMaster_Shopping: enabled

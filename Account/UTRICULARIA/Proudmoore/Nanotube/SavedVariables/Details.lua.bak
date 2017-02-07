@@ -1,0 +1,3598 @@
+
+_detalhes_database = {
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "Nanotube-Proudmoore",
+	["last_realversion"] = 116,
+	["ignore_nicktag"] = false,
+	["combat_counter"] = 49,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["useclasscolors"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["showamount"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				299.999938964844, -- [1]
+				499.999908447266, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["point"] = "CENTER",
+			["y"] = -4.577636718750e-005,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["row_height"] = 20,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 6.1035156250e-005,
+				["x"] = -6.1035156250e-005,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+				["attribute_type"] = 1,
+			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["font_size"] = 10,
+		},
+	},
+	["savedbuffs"] = {
+	},
+	["character_data"] = {
+		["logons"] = 1,
+	},
+	["force_font_outline"] = "",
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Daggerbeak"] = true,
+							},
+							["targets"] = {
+								["Daggerbeak"] = 1804091,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1804091.002217,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486188463,
+							["friendlyfire_total"] = 0,
+							["spec"] = 66,
+							["nome"] = "Nanotube",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 80759,
+										["g_amt"] = 0,
+										["n_max"] = 6673,
+										["targets"] = {
+											["Daggerbeak"] = 242944,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 162185,
+										["n_min"] = 3546,
+										["g_dmg"] = 0,
+										["counter"] = 44,
+										["total"] = 242944,
+										["c_max"] = 11913,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 35,
+										["r_amt"] = 0,
+										["c_min"] = 7103,
+									}, -- [1]
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 67836,
+										["g_amt"] = 0,
+										["n_max"] = 33919,
+										["targets"] = {
+											["Daggerbeak"] = 317242,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 249406,
+										["n_min"] = 20268,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 317242,
+										["c_max"] = 67836,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 67836,
+									},
+									[81297] = {
+										["c_amt"] = 26,
+										["b_amt"] = 0,
+										["c_dmg"] = 92242,
+										["g_amt"] = 0,
+										["n_max"] = 2340,
+										["targets"] = {
+											["Daggerbeak"] = 229328,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 137086,
+										["n_min"] = 1398,
+										["g_dmg"] = 0,
+										["counter"] = 109,
+										["total"] = 229328,
+										["c_max"] = 4680,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 83,
+										["r_amt"] = 0,
+										["c_min"] = 2797,
+									},
+									[204301] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 41081,
+										["g_amt"] = 0,
+										["n_max"] = 4972,
+										["targets"] = {
+											["Daggerbeak"] = 210461,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 169380,
+										["n_min"] = 2971,
+										["g_dmg"] = 0,
+										["counter"] = 52,
+										["total"] = 210461,
+										["c_max"] = 9945,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 46,
+										["r_amt"] = 0,
+										["c_min"] = 5942,
+									},
+									[209202] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 13978,
+										["targets"] = {
+											["Daggerbeak"] = 13978,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13978,
+										["n_min"] = 13978,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 13978,
+										["c_max"] = 0,
+										["id"] = 209202,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[20271] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 93417,
+										["g_amt"] = 0,
+										["n_max"] = 29237,
+										["targets"] = {
+											["Daggerbeak"] = 380216,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 286799,
+										["n_min"] = 17471,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 380216,
+										["c_max"] = 58474,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 34943,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 134204,
+										["g_amt"] = 0,
+										["n_max"] = 38548,
+										["targets"] = {
+											["Daggerbeak"] = 409922,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 275718,
+										["n_min"] = 23035,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 409922,
+										["c_max"] = 77096,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 57108,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 1804091.002217,
+							["serial"] = "Player-5-0AAC3003",
+							["last_dps"] = 18048.6709506692,
+							["custom"] = 0,
+							["last_event"] = 1486188462,
+							["damage_taken"] = 162556.002217,
+							["start_time"] = 1486188363,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 35,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008278,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Nanotube"] = true,
+							},
+							["targets"] = {
+								["Nanotube"] = 112429,
+							},
+							["targets_overheal"] = {
+								["Nanotube"] = 3586,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_absorbs"] = {
+							},
+							["classe"] = "PALADIN",
+							["totalover"] = 3586.008278,
+							["total_without_pet"] = 108843.008278,
+							["totalover_without_pet"] = 0.008278,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 108843.008278,
+							["healing_taken"] = 108843.008278,
+							["end_time"] = 1486188463,
+							["nome"] = "Nanotube",
+							["spec"] = 66,
+							["grupo"] = true,
+							["last_event"] = 1486188461,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 20,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Nanotube"] = 3586,
+										},
+										["n_max"] = 1595,
+										["targets"] = {
+											["Nanotube"] = 97182,
+										},
+										["n_min"] = 484,
+										["counter"] = 69,
+										["overheal"] = 3586,
+										["total"] = 97182,
+										["c_max"] = 2845,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 41627,
+										["m_amt"] = 0,
+										["c_min"] = 1746,
+										["n_curado"] = 55555,
+										["m_healed"] = 0,
+										["n_amt"] = 49,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 941,
+										["targets"] = {
+											["Nanotube"] = 11661,
+										},
+										["n_min"] = 264,
+										["counter"] = 21,
+										["overheal"] = 0,
+										["total"] = 11661,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 11661,
+										["m_healed"] = 0,
+										["n_amt"] = 21,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486188364,
+							["serial"] = "Player-5-0AAC3003",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 35,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 35,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[196941] = {
+										["uptime"] = 99,
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204301] = {
+										["uptime"] = 71,
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[209202] = {
+										["uptime"] = 9,
+										["activedamt"] = 0,
+										["id"] = 209202,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31935] = {
+										["uptime"] = 14,
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204242] = {
+										["uptime"] = 87,
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrupt_targets"] = {
+								["Daggerbeak"] = 1,
+							},
+							["buff_uptime"] = 310,
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["targets"] = {
+											["Daggerbeak"] = 7,
+										},
+										["counter"] = 7,
+									},
+								},
+							},
+							["classe"] = "PALADIN",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["interrompeu_oque"] = {
+											[186332] = 1,
+										},
+										["targets"] = {
+											["Daggerbeak"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["uptime"] = 50,
+										["activedamt"] = 12,
+										["id"] = 132403,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31884] = {
+										["uptime"] = 26,
+										["activedamt"] = 2,
+										["id"] = 31884,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[188370] = {
+										["uptime"] = 91,
+										["activedamt"] = 9,
+										["id"] = 188370,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[93827] = {
+										["uptime"] = 100,
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[201405] = {
+										["uptime"] = 43,
+										["activedamt"] = 2,
+										["id"] = 201405,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[186332] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 280,
+							["interrupt"] = 1.004598,
+							["cc_done"] = 7.005862,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[53600] = 12,
+								[26573] = 11,
+								[204019] = 25,
+								[20271] = 15,
+								[204242] = 11,
+								[209202] = 1,
+								[31884] = 2,
+								[31935] = 11,
+							},
+							["cc_done_targets"] = {
+								["Daggerbeak"] = 7,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486188463,
+							["nome"] = "Nanotube",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0AAC3003",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 35,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Nanotube"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Daggerbeak",
+				["combat_counter"] = 49,
+				["playing_solo"] = true,
+				["totals"] = {
+					1804090.907877, -- [1]
+					108842.995904, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Nanotube"] = 108843.008278,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Nanotube"] = 1804091.002217,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 275086.807,
+				["combat_id"] = 35,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Gangamesh"] = 1,
+					["Melianthy"] = 1,
+					["Daggerbeak"] = 1,
+					["Salteye Beastfeeder"] = 2,
+				},
+				["data_fim"] = "22:07:44",
+				["data_inicio"] = "22:06:04",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1804091, -- [1]
+					108843, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 274986.85,
+				["contra"] = "Daggerbeak",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Salteye Hookblade"] = true,
+								["Salteye Tide-Shaman"] = true,
+							},
+							["targets"] = {
+								["Salteye Hookblade"] = 565731,
+								["Salteye Tide-Shaman"] = 649604,
+							},
+							["pets"] = {
+							},
+							["total"] = 1215335.00122,
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1215335.00122,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486188313,
+							["friendlyfire_total"] = 0,
+							["spec"] = 66,
+							["nome"] = "Nanotube",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 8591,
+										["g_amt"] = 0,
+										["n_max"] = 4458,
+										["targets"] = {
+											["Salteye Hookblade"] = 20735,
+											["Salteye Tide-Shaman"] = 16176,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 28320,
+										["n_min"] = 3558,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 36911,
+										["c_max"] = 8591,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 8591,
+									}, -- [1]
+									[31935] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 131325,
+										["g_amt"] = 0,
+										["n_max"] = 20270,
+										["targets"] = {
+											["Salteye Hookblade"] = 141883,
+											["Salteye Tide-Shaman"] = 131325,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 141883,
+										["n_min"] = 20268,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 273208,
+										["c_max"] = 50249,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 40536,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 103179,
+										["g_amt"] = 0,
+										["n_max"] = 23795,
+										["targets"] = {
+											["Salteye Hookblade"] = 80143,
+											["Salteye Tide-Shaman"] = 92902,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 69866,
+										["n_min"] = 23035,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 173045,
+										["c_max"] = 57108,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 46071,
+									},
+									[204301] = {
+										["c_amt"] = 9,
+										["b_amt"] = 4,
+										["c_dmg"] = 52696,
+										["g_amt"] = 0,
+										["n_max"] = 3683,
+										["targets"] = {
+											["Salteye Hookblade"] = 92814,
+											["Salteye Tide-Shaman"] = 111239,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 151357,
+										["n_min"] = 2079,
+										["g_dmg"] = 0,
+										["counter"] = 59,
+										["total"] = 204053,
+										["c_max"] = 5943,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 11892,
+										["n_amt"] = 50,
+										["r_amt"] = 0,
+										["c_min"] = 5156,
+									},
+									[209202] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 13978,
+										["targets"] = {
+											["Salteye Hookblade"] = 41934,
+											["Salteye Tide-Shaman"] = 41934,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 83868,
+										["n_min"] = 13978,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 83868,
+										["c_max"] = 0,
+										["id"] = 209202,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[20271] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21657,
+										["targets"] = {
+											["Salteye Hookblade"] = 39128,
+											["Salteye Tide-Shaman"] = 78256,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 117384,
+										["n_min"] = 17471,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 117384,
+										["c_max"] = 0,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[81297] = {
+										["c_amt"] = 37,
+										["b_amt"] = 0,
+										["c_dmg"] = 108179,
+										["g_amt"] = 0,
+										["n_max"] = 1733,
+										["targets"] = {
+											["Salteye Hookblade"] = 149094,
+											["Salteye Tide-Shaman"] = 177772,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 218687,
+										["n_min"] = 1398,
+										["g_dmg"] = 0,
+										["counter"] = 186,
+										["total"] = 326866,
+										["c_max"] = 3467,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 149,
+										["r_amt"] = 0,
+										["c_min"] = 2797,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0AAC3003",
+							["last_dps"] = 25947.6280203847,
+							["custom"] = 0,
+							["last_event"] = 1486188313,
+							["damage_taken"] = 190190.00122,
+							["start_time"] = 1486188272,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 34,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004726,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Nanotube"] = true,
+							},
+							["targets"] = {
+								["Nanotube"] = 212089,
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.004726,
+							["targets_overheal"] = {
+							},
+							["classe"] = "PALADIN",
+							["totalover"] = 0.004726,
+							["total_without_pet"] = 212089.004726,
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 212089.004726,
+							["healing_taken"] = 212089.004726,
+							["end_time"] = 1486188313,
+							["nome"] = "Nanotube",
+							["spec"] = 66,
+							["grupo"] = true,
+							["last_event"] = 1486188312,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 953,
+										["targets"] = {
+											["Nanotube"] = 9984,
+										},
+										["n_min"] = 952,
+										["counter"] = 8,
+										["overheal"] = 0,
+										["total"] = 9984,
+										["c_max"] = 2362,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 4267,
+										["m_amt"] = 0,
+										["c_min"] = 1905,
+										["n_curado"] = 5717,
+										["m_healed"] = 0,
+										["n_amt"] = 6,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 279,
+										["targets"] = {
+											["Nanotube"] = 4883,
+										},
+										["n_min"] = 60,
+										["counter"] = 33,
+										["overheal"] = 0,
+										["total"] = 4883,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 4883,
+										["m_healed"] = 0,
+										["n_amt"] = 33,
+										["absorbed"] = 0,
+									},
+									[213652] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 72693,
+										["targets"] = {
+											["Nanotube"] = 197222,
+										},
+										["n_min"] = 57798,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 197222,
+										["c_max"] = 0,
+										["id"] = 213652,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 197222,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486188276,
+							["serial"] = "Player-5-0AAC3003",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 34,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 34,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[196941] = {
+										["uptime"] = 14,
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204301] = {
+										["uptime"] = 32,
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[209202] = {
+										["uptime"] = 9,
+										["activedamt"] = 0,
+										["id"] = 209202,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31935] = {
+										["uptime"] = 6,
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204242] = {
+										["uptime"] = 35,
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrupt_targets"] = {
+								["Salteye Tide-Shaman"] = 1,
+							},
+							["buff_uptime"] = 124,
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 2,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["classe"] = "PALADIN",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["interrompeu_oque"] = {
+											[32011] = 1,
+										},
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["uptime"] = 23,
+										["activedamt"] = 5,
+										["id"] = 132403,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[201405] = {
+										["uptime"] = 17,
+										["activedamt"] = 1,
+										["id"] = 201405,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[188370] = {
+										["uptime"] = 37,
+										["activedamt"] = 4,
+										["id"] = 188370,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[93827] = {
+										["uptime"] = 47,
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[118089] = {
+										["actived_at"] = 1486188266,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 118089,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[32011] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 96,
+							["interrupt"] = 1.002505,
+							["cc_done"] = 2.003011,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[53600] = 5,
+								[204242] = 22,
+								[204019] = 10,
+								[213652] = 3,
+								[26573] = 5,
+								[209202] = 1,
+								[20271] = 6,
+								[31935] = 4,
+							},
+							["cc_done_targets"] = {
+								["Salteye Tide-Shaman"] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486188313,
+							["nome"] = "Nanotube",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0AAC3003",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 34,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Nanotube"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Salteye Hookblade",
+				["combat_counter"] = 48,
+				["playing_solo"] = true,
+				["totals"] = {
+					1215334.952165, -- [1]
+					212088.991982, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.006331,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Nanotube"] = 212089.004726,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Nanotube"] = 1215335.00122,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 274937.057,
+				["combat_id"] = 34,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Salteye Hookblade"] = 6,
+					["Kelp Scuttler"] = 1,
+					["Salteye Tide-Shaman"] = 8,
+					["Hatecoil Slaver"] = 1,
+					["Coastal Sandpiper"] = 1,
+				},
+				["data_fim"] = "22:05:14",
+				["data_inicio"] = "22:04:27",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1215335, -- [1]
+					212089, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 274890.219,
+				["contra"] = "Salteye Hookblade",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Salteye Hookblade"] = true,
+								["Salteye Tide-Shaman"] = true,
+								["Mrrgrl the Tide Reaver"] = true,
+							},
+							["targets"] = {
+								["Salteye Hookblade"] = 976949,
+								["Salteye Tide-Shaman"] = 421837,
+								["Mrrgrl the Tide Reaver"] = 1799181,
+							},
+							["pets"] = {
+							},
+							["total"] = 3197967.006199,
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 3197967.006199,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486188248,
+							["friendlyfire_total"] = 0,
+							["spec"] = 66,
+							["nome"] = "Nanotube",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 13,
+										["b_amt"] = 2,
+										["c_dmg"] = 120484,
+										["g_amt"] = 0,
+										["n_max"] = 6708,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 3712,
+											["Mrrgrl the Tide Reaver"] = 300898,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 184126,
+										["n_min"] = 2583,
+										["g_dmg"] = 0,
+										["counter"] = 53,
+										["total"] = 304610,
+										["c_max"] = 12909,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 6035,
+										["n_amt"] = 40,
+										["r_amt"] = 0,
+										["c_min"] = 7819,
+									}, -- [1]
+									[53600] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 38509,
+										["targets"] = {
+											["Mrrgrl the Tide Reaver"] = 338117,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 338117,
+										["n_min"] = 19277,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 338117,
+										["c_max"] = 0,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[31935] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 368945,
+										["g_amt"] = 0,
+										["n_max"] = 33885,
+										["targets"] = {
+											["Salteye Hookblade"] = 451064,
+											["Salteye Tide-Shaman"] = 145145,
+											["Mrrgrl the Tide Reaver"] = 408961,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 636225,
+										["n_min"] = 20353,
+										["g_dmg"] = 0,
+										["counter"] = 33,
+										["total"] = 1005170,
+										["c_max"] = 67764,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 26,
+										["r_amt"] = 0,
+										["c_min"] = 50195,
+									},
+									[204301] = {
+										["c_amt"] = 17,
+										["b_amt"] = 3,
+										["c_dmg"] = 128448,
+										["g_amt"] = 0,
+										["n_max"] = 4967,
+										["targets"] = {
+											["Salteye Hookblade"] = 145869,
+											["Salteye Tide-Shaman"] = 89385,
+											["Mrrgrl the Tide Reaver"] = 180500,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 287306,
+										["n_min"] = 2088,
+										["g_dmg"] = 0,
+										["counter"] = 95,
+										["total"] = 415754,
+										["c_max"] = 9935,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 9040,
+										["n_amt"] = 78,
+										["r_amt"] = 0,
+										["c_min"] = 5967,
+									},
+									[209202] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 69236,
+										["g_amt"] = 0,
+										["n_max"] = 17309,
+										["targets"] = {
+											["Salteye Hookblade"] = 121163,
+											["Salteye Tide-Shaman"] = 17309,
+											["Mrrgrl the Tide Reaver"] = 17309,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86545,
+										["n_min"] = 17309,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 155781,
+										["c_max"] = 34618,
+										["id"] = 209202,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 34618,
+									},
+									[20271] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 121631,
+										["g_amt"] = 0,
+										["n_max"] = 29207,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 17545,
+											["Mrrgrl the Tide Reaver"] = 361882,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 257796,
+										["n_min"] = 17545,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 379427,
+										["c_max"] = 43270,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 35091,
+									},
+									[81297] = {
+										["c_amt"] = 58,
+										["b_amt"] = 0,
+										["c_dmg"] = 197106,
+										["g_amt"] = 0,
+										["n_max"] = 2338,
+										["targets"] = {
+											["Salteye Hookblade"] = 258853,
+											["Salteye Tide-Shaman"] = 148741,
+											["Mrrgrl the Tide Reaver"] = 191514,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 402002,
+										["n_min"] = 1404,
+										["g_dmg"] = 0,
+										["counter"] = 294,
+										["total"] = 599108,
+										["c_max"] = 4676,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 236,
+										["r_amt"] = 0,
+										["c_min"] = 2809,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0AAC3003",
+							["last_dps"] = 28062.1885415939,
+							["custom"] = 0,
+							["last_event"] = 1486188248,
+							["damage_taken"] = 502083.006199,
+							["start_time"] = 1486188134,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 33,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.007984,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Nanotube"] = true,
+							},
+							["targets"] = {
+								["Nanotube"] = 373263,
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.007984,
+							["targets_overheal"] = {
+							},
+							["classe"] = "PALADIN",
+							["totalover"] = 0.007984,
+							["total_without_pet"] = 373263.007984,
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 373263.007984,
+							["healing_taken"] = 373263.007984,
+							["end_time"] = 1486188248,
+							["nome"] = "Nanotube",
+							["spec"] = 66,
+							["grupo"] = true,
+							["last_event"] = 1486188245,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 12,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1593,
+										["targets"] = {
+											["Nanotube"] = 100135,
+										},
+										["n_min"] = 956,
+										["counter"] = 72,
+										["overheal"] = 0,
+										["total"] = 100135,
+										["c_max"] = 3186,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 28627,
+										["m_amt"] = 0,
+										["c_min"] = 1913,
+										["n_curado"] = 71508,
+										["m_healed"] = 0,
+										["n_amt"] = 60,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 939,
+										["targets"] = {
+											["Nanotube"] = 18420,
+										},
+										["n_min"] = 69,
+										["counter"] = 59,
+										["overheal"] = 0,
+										["total"] = 18420,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 18420,
+										["m_healed"] = 0,
+										["n_amt"] = 59,
+										["absorbed"] = 0,
+									},
+									[213652] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 64490,
+										["targets"] = {
+											["Nanotube"] = 254708,
+										},
+										["n_min"] = 37631,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 254708,
+										["c_max"] = 0,
+										["id"] = 213652,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 254708,
+										["m_healed"] = 0,
+										["n_amt"] = 5,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486188136,
+							["serial"] = "Player-5-0AAC3003",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 33,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 33,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[204242] = {
+										["uptime"] = 78,
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31935] = {
+										["uptime"] = 12,
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[853] = {
+										["uptime"] = 6,
+										["activedamt"] = 0,
+										["id"] = 853,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[209202] = {
+										["uptime"] = 9,
+										["activedamt"] = 0,
+										["id"] = 209202,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204301] = {
+										["uptime"] = 75,
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[196941] = {
+										["uptime"] = 111,
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.002024,
+							["buff_uptime"] = 354,
+							["last_cooldown"] = {
+								1486188164.483, -- [1]
+								31850, -- [2]
+							},
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[853] = {
+										["id"] = 853,
+										["targets"] = {
+											["Mrrgrl the Tide Reaver"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[31935] = {
+										["id"] = 31935,
+										["targets"] = {
+											["Mrrgrl the Tide Reaver"] = 7,
+										},
+										["counter"] = 7,
+									},
+								},
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["Nanotube"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["uptime"] = 8,
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[132403] = {
+										["uptime"] = 54,
+										["activedamt"] = 11,
+										["id"] = 132403,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31884] = {
+										["uptime"] = 20,
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[188370] = {
+										["uptime"] = 80,
+										["activedamt"] = 10,
+										["id"] = 188370,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[93827] = {
+										["uptime"] = 114,
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[201405] = {
+										["uptime"] = 78,
+										["activedamt"] = 3,
+										["id"] = 201405,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 291,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["Nanotube"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["cc_done"] = 8.007999,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[213652] = 5,
+								[31935] = 13,
+								[26573] = 10,
+								[204242] = 35,
+								[204019] = 20,
+								[31884] = 1,
+								[20271] = 14,
+								[53600] = 12,
+								[31850] = 1,
+								[853] = 1,
+								[209202] = 1,
+							},
+							["cc_done_targets"] = {
+								["Mrrgrl the Tide Reaver"] = 8,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486188248,
+							["nome"] = "Nanotube",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0AAC3003",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 33,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Nanotube"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Mrrgrl the Tide Reaver",
+				["combat_counter"] = 47,
+				["playing_solo"] = true,
+				["totals"] = {
+					3197966.937785, -- [1]
+					373263, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.007922,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Nanotube"] = 373263.007984,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Nanotube"] = 3197967.006199,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 274871.931,
+				["combat_id"] = 33,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Salteye Hookblade"] = 5,
+					["Gangamesh"] = 1,
+					["Salteye Spearguard"] = 2,
+					["Salteye Tide-Shaman"] = 3,
+					["Mrrgrl the Tide Reaver"] = 1,
+				},
+				["data_fim"] = "22:04:09",
+				["data_inicio"] = "22:02:15",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					3197967, -- [1]
+					373263, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 274757.971,
+				["contra"] = "Mrrgrl the Tide Reaver",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Salteye Hookblade"] = true,
+								["Salteye Tide-Shaman"] = true,
+								["Salteye Clam Vanquisher"] = true,
+							},
+							["targets"] = {
+								["Salteye Hookblade"] = 408177,
+								["Salteye Tide-Shaman"] = 411526,
+								["Salteye Clam Vanquisher"] = 921605,
+							},
+							["pets"] = {
+							},
+							["total"] = 1741308.002905,
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1741308.002905,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486188101,
+							["friendlyfire_total"] = 0,
+							["spec"] = 66,
+							["nome"] = "Nanotube",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 49978,
+										["g_amt"] = 0,
+										["n_max"] = 5904,
+										["targets"] = {
+											["Salteye Hookblade"] = 10688,
+											["Salteye Tide-Shaman"] = 31494,
+											["Salteye Clam Vanquisher"] = 55999,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 48203,
+										["n_min"] = 3696,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 98181,
+										["c_max"] = 11698,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 7502,
+									}, -- [1]
+									[31935] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 191327,
+										["g_amt"] = 0,
+										["n_max"] = 27480,
+										["targets"] = {
+											["Salteye Hookblade"] = 82434,
+											["Salteye Tide-Shaman"] = 54958,
+											["Salteye Clam Vanquisher"] = 245269,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 191334,
+										["n_min"] = 20353,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 382661,
+										["c_max"] = 54958,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 40707,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 1,
+										["c_dmg"] = 108726,
+										["g_amt"] = 0,
+										["n_max"] = 31230,
+										["targets"] = {
+											["Salteye Hookblade"] = 26024,
+											["Salteye Tide-Shaman"] = 85591,
+											["Salteye Clam Vanquisher"] = 93690,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 96579,
+										["n_min"] = 16192,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 205305,
+										["c_max"] = 62460,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 16192,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 46266,
+									},
+									[204301] = {
+										["c_amt"] = 15,
+										["b_amt"] = 1,
+										["c_dmg"] = 106224,
+										["g_amt"] = 0,
+										["n_max"] = 4028,
+										["targets"] = {
+											["Salteye Hookblade"] = 81305,
+											["Salteye Tide-Shaman"] = 100829,
+											["Salteye Clam Vanquisher"] = 153662,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 229572,
+										["n_min"] = 2819,
+										["g_dmg"] = 0,
+										["counter"] = 78,
+										["total"] = 335796,
+										["c_max"] = 8056,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 2819,
+										["n_amt"] = 63,
+										["r_amt"] = 0,
+										["c_min"] = 5968,
+									},
+									[209202] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 75802,
+										["g_amt"] = 0,
+										["n_max"] = 18950,
+										["targets"] = {
+											["Salteye Hookblade"] = 56851,
+											["Salteye Clam Vanquisher"] = 113701,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 94750,
+										["n_min"] = 18950,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 170552,
+										["c_max"] = 37901,
+										["id"] = 209202,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 37901,
+									},
+									[20271] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 47373,
+										["g_amt"] = 0,
+										["n_max"] = 23686,
+										["targets"] = {
+											["Salteye Hookblade"] = 47373,
+											["Salteye Tide-Shaman"] = 35090,
+											["Salteye Clam Vanquisher"] = 64917,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100007,
+										["n_min"] = 17545,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 147380,
+										["c_max"] = 47373,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 47373,
+									},
+									[81297] = {
+										["c_amt"] = 31,
+										["b_amt"] = 0,
+										["c_dmg"] = 108705,
+										["g_amt"] = 0,
+										["n_max"] = 1896,
+										["targets"] = {
+											["Salteye Hookblade"] = 103502,
+											["Salteye Tide-Shaman"] = 103564,
+											["Salteye Clam Vanquisher"] = 194367,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 292728,
+										["n_min"] = 1404,
+										["g_dmg"] = 0,
+										["counter"] = 202,
+										["total"] = 401433,
+										["c_max"] = 3792,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 171,
+										["r_amt"] = 0,
+										["c_min"] = 2809,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0AAC3003",
+							["last_dps"] = 37606.8073970252,
+							["custom"] = 0,
+							["last_event"] = 1486188101,
+							["damage_taken"] = 192398.002905,
+							["start_time"] = 1486188059,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 32,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004302,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Nanotube"] = true,
+							},
+							["targets"] = {
+								["Nanotube"] = 124966,
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.004302,
+							["targets_overheal"] = {
+							},
+							["classe"] = "PALADIN",
+							["totalover"] = 0.004302,
+							["total_without_pet"] = 124966.004302,
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 124966.004302,
+							["healing_taken"] = 124966.004302,
+							["end_time"] = 1486188101,
+							["nome"] = "Nanotube",
+							["spec"] = 66,
+							["grupo"] = true,
+							["last_event"] = 1486188097,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1292,
+										["targets"] = {
+											["Nanotube"] = 17079,
+										},
+										["n_min"] = 957,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 17079,
+										["c_max"] = 2583,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 10332,
+										["m_amt"] = 0,
+										["c_min"] = 2583,
+										["n_curado"] = 6747,
+										["m_healed"] = 0,
+										["n_amt"] = 6,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 280,
+										["targets"] = {
+											["Nanotube"] = 4011,
+										},
+										["n_min"] = 33,
+										["counter"] = 27,
+										["overheal"] = 0,
+										["total"] = 4011,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 4011,
+										["m_healed"] = 0,
+										["n_amt"] = 27,
+										["absorbed"] = 0,
+									},
+									[213652] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 58665,
+										["targets"] = {
+											["Nanotube"] = 103876,
+										},
+										["n_min"] = 45211,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 103876,
+										["c_max"] = 0,
+										["id"] = 213652,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 103876,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486188063,
+							["serial"] = "Player-5-0AAC3003",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 32,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 32,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[196941] = {
+										["uptime"] = 14,
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[25771] = {
+										["uptime"] = 30,
+										["activedamt"] = 0,
+										["id"] = 25771,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204301] = {
+										["uptime"] = 31,
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[209202] = {
+										["uptime"] = 9,
+										["activedamt"] = 0,
+										["id"] = 209202,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31935] = {
+										["uptime"] = 9,
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[204242] = {
+										["uptime"] = 32,
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 2.005907,
+							["buff_uptime"] = 142,
+							["last_cooldown"] = {
+								1486188082.208, -- [1]
+								86659, -- [2]
+							},
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["targets"] = {
+											["Salteye Hookblade"] = 1,
+											["Salteye Clam Vanquisher"] = 3,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["Nanotube"] = 2,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[642] = {
+										["uptime"] = 8,
+										["activedamt"] = 1,
+										["id"] = 642,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[86659] = {
+										["uptime"] = 8,
+										["activedamt"] = 1,
+										["id"] = 86659,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[132403] = {
+										["uptime"] = 23,
+										["activedamt"] = 5,
+										["id"] = 132403,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31884] = {
+										["uptime"] = 20,
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[188370] = {
+										["uptime"] = 32,
+										["activedamt"] = 3,
+										["id"] = 188370,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[93827] = {
+										["uptime"] = 46,
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[221886] = {
+										["uptime"] = 5,
+										["activedamt"] = 2,
+										["id"] = 221886,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 125,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[642] = {
+										["id"] = 642,
+										["targets"] = {
+											["Nanotube"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[86659] = {
+										["id"] = 86659,
+										["targets"] = {
+											["Nanotube"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["cc_done"] = 4.003958,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[213652] = 2,
+								[31935] = 4,
+								[642] = 1,
+								[26573] = 4,
+								[204242] = 26,
+								[204019] = 10,
+								[31884] = 1,
+								[209202] = 1,
+								[190784] = 1,
+								[53600] = 6,
+								[86659] = 1,
+								[204035] = 1,
+								[20271] = 6,
+							},
+							["cc_done_targets"] = {
+								["Salteye Hookblade"] = 1,
+								["Salteye Clam Vanquisher"] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486188101,
+							["nome"] = "Nanotube",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0AAC3003",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 32,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Nanotube"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Salteye Tide-Shaman",
+				["combat_counter"] = 46,
+				["playing_solo"] = true,
+				["totals"] = {
+					1741307.967182, -- [1]
+					124966, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Nanotube"] = 124966.004302,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Nanotube"] = 1741308.002905,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 274725.305,
+				["combat_id"] = 32,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Salteye Hookblade"] = 2,
+					["Salteye Tide-Shaman"] = 2,
+					["Salteye Clam Vanquisher"] = 5,
+				},
+				["data_fim"] = "22:01:42",
+				["data_inicio"] = "22:00:56",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1741308, -- [1]
+					124966, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 274679.002,
+				["contra"] = "Salteye Tide-Shaman",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Salteye Tide-Shaman"] = true,
+							},
+							["targets"] = {
+								["Salteye Tide-Shaman"] = 205648,
+							},
+							["pets"] = {
+							},
+							["total"] = 205648.007734,
+							["on_hold"] = false,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 205648.007734,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486188035,
+							["friendlyfire_total"] = 0,
+							["spec"] = 66,
+							["nome"] = "Nanotube",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 1,
+										["c_dmg"] = 6843,
+										["g_amt"] = 0,
+										["n_max"] = 4862,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 25235,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18392,
+										["n_min"] = 4402,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 25235,
+										["c_max"] = 6843,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 6843,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 6843,
+									}, -- [1]
+									[204301] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 14718,
+										["g_amt"] = 0,
+										["n_max"] = 3679,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 18397,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3679,
+										["n_min"] = 3679,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 18397,
+										["c_max"] = 7359,
+										["id"] = 204301,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 7359,
+									},
+									[20271] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 21635,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 39180,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 39180,
+										["n_min"] = 17545,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 39180,
+										["c_max"] = 0,
+										["id"] = 20271,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[53600] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23771,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 47542,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 47542,
+										["n_min"] = 23771,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 47542,
+										["c_max"] = 0,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 50195,
+										["g_amt"] = 0,
+										["n_max"] = 25099,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 75294,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 25099,
+										["n_min"] = 25099,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 75294,
+										["c_max"] = 50195,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 50195,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0AAC3003",
+							["last_dps"] = 18789.2195279917,
+							["custom"] = 0,
+							["last_event"] = 1486188034,
+							["damage_taken"] = 5084.007734,
+							["start_time"] = 1486188024,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 31,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004984,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Nanotube"] = true,
+							},
+							["targets"] = {
+								["Nanotube"] = 11016,
+							},
+							["last_event"] = 1486188033,
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.004984,
+							["targets_overheal"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.004984,
+							["total_without_pet"] = 11016.004984,
+							["iniciar_hps"] = false,
+							["classe"] = "PALADIN",
+							["fight_component"] = true,
+							["total"] = 11016.004984,
+							["serial"] = "Player-5-0AAC3003",
+							["healing_taken"] = 11016.004984,
+							["nome"] = "Nanotube",
+							["spec"] = 66,
+							["grupo"] = true,
+							["end_time"] = 1486188035,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[183811] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1180,
+										["targets"] = {
+											["Nanotube"] = 10618,
+										},
+										["n_min"] = 1179,
+										["counter"] = 7,
+										["overheal"] = 0,
+										["total"] = 10618,
+										["c_max"] = 2360,
+										["id"] = 183811,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 4719,
+										["m_amt"] = 0,
+										["c_min"] = 2359,
+										["n_curado"] = 5899,
+										["m_healed"] = 0,
+										["n_amt"] = 5,
+										["absorbed"] = 0,
+									},
+									[229976] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 251,
+										["targets"] = {
+											["Nanotube"] = 398,
+										},
+										["n_min"] = 147,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 398,
+										["c_max"] = 0,
+										["id"] = 229976,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 398,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486188024,
+							["delay"] = 0,
+							["targets_absorbs"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 31,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 31,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[204301] = {
+										["uptime"] = 3,
+										["activedamt"] = 0,
+										["id"] = 204301,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[196941] = {
+										["uptime"] = 10,
+										["activedamt"] = 0,
+										["id"] = 196941,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[31935] = {
+										["uptime"] = 4,
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrupt_targets"] = {
+								["Salteye Tide-Shaman"] = 1,
+							},
+							["buff_uptime"] = 30,
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["id"] = 31935,
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 2,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["classe"] = "PALADIN",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[96231] = {
+										["id"] = 96231,
+										["interrompeu_oque"] = {
+											[32011] = 1,
+										},
+										["targets"] = {
+											["Salteye Tide-Shaman"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["uptime"] = 8,
+										["activedamt"] = 1,
+										["id"] = 132403,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[201405] = {
+										["uptime"] = 11,
+										["activedamt"] = 1,
+										["id"] = 201405,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[93827] = {
+										["uptime"] = 11,
+										["activedamt"] = 1,
+										["id"] = 93827,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[32011] = 1,
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 17,
+							["interrupt"] = 1.003851,
+							["cc_done"] = 2.006813,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[53600] = 2,
+								[204019] = 4,
+								[96231] = 1,
+								[20271] = 1,
+								[31935] = 2,
+							},
+							["cc_done_targets"] = {
+								["Salteye Tide-Shaman"] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486188035,
+							["nome"] = "Nanotube",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0AAC3003",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 31,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Nanotube"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Salteye Tide-Shaman",
+				["combat_counter"] = 45,
+				["playing_solo"] = true,
+				["totals"] = {
+					205647.975127, -- [1]
+					11016, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Nanotube"] = 11016.004984,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Nanotube"] = 205648.007734,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 274658.66,
+				["combat_id"] = 31,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Salteye Tide-Shaman"] = 1,
+				},
+				["data_fim"] = "22:00:35",
+				["data_inicio"] = "22:00:25",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					205648, -- [1]
+					11016, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 274647.715,
+				["contra"] = "Salteye Tide-Shaman",
+				["TimeData"] = {
+				},
+			}, -- [5]
+		},
+	},
+	["last_day"] = "03",
+	["nick_tag_cache"] = {
+		["nextreset"] = 1487481030,
+		["last_version"] = 8,
+	},
+	["tabela_instancias"] = {
+	},
+	["combat_id"] = 35,
+	["savedStyles"] = {
+	},
+	["cached_talents"] = {
+		["Player-5-0AAC3003"] = {
+			22484, -- [1]
+			22604, -- [2]
+			22179, -- [3]
+			22558, -- [4]
+			21201, -- [5]
+			22434, -- [6]
+			22705, -- [7]
+		},
+	},
+	["last_instance_time"] = 0,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["data_inicio"] = 0,
+		["combat_counter"] = 13,
+		["last_events_tables"] = {
+		},
+		["raid_roster"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["CombatSkillCache"] = {
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["__call"] = {
+		},
+	},
+	["last_version"] = "v7.1.5.3325",
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = true,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -265.832794189453,
+					["x"] = -896.499740600586,
+					["w"] = 320,
+					["h"] = 129.999984741211,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_id"] = 0,
+	["cached_specs"] = {
+		["Player-5-0A9ED304"] = 577,
+		["Player-5-0AAC3003"] = 66,
+	},
+}

@@ -11,10 +11,10 @@ AtlasLootCharDB = {
 	},
 	["GUI"] = {
 		["selected"] = {
-			"AtlasLoot_Factions", -- [1]
-			"LEGIONFACTIONS", -- [2]
-			nil, -- [3]
-			1, -- [4]
+			"AtlasLoot_Collections", -- [1]
+			"TIERSETS", -- [2]
+			8, -- [3]
+			4, -- [4]
 			0, -- [5]
 		},
 		["point"] = {
@@ -34,5 +34,8 @@ AtlasLootCharDB = {
 			-141.999618530273, -- [4]
 			-162.000122070313, -- [5]
 		},
+	},
+	["minimap"] = {
+		["minimapPos"] = 162.271931611812,
 	},
 }

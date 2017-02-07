@@ -12,11 +12,13 @@ TradeSkillMaster_MailingDB = {
 	["f@Horde - Proudmoore@deMailTarget"] = "",
 	["c@Transmetro - Proudmoore@goldMailTarget"] = "",
 	["c@Guayaki - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Nanotube - Proudmoore@goldMailTarget"] = "",
 	["g@ @deleteEmptyNPCMail"] = false,
 	["g@ @displayMoneyCollected"] = true,
 	["g@ @deMaxQuality"] = 2,
 	["_version"] = 1,
 	["g@ @showReloadBtn"] = true,
+	["c@Nanotube - Uldum@goldMailTarget"] = "",
 	["_scopeKeys"] = {
 		["char"] = {
 			"Kikobank - Proudmoore", -- [1]
@@ -27,6 +29,10 @@ TradeSkillMaster_MailingDB = {
 			"Transmetro - Proudmoore", -- [6]
 			"Audioteqnica - Proudmoore", -- [7]
 			"Kikoutate - Uldum", -- [8]
+			"Antihistamin - Proudmoore", -- [9]
+			"Coronawlime - Proudmoore", -- [10]
+			"Nanotube - Uldum", -- [11]
+			"Nanotube - Proudmoore", -- [12]
 		},
 		["factionrealm"] = {
 			"Horde - Proudmoore", -- [1]
@@ -40,34 +46,44 @@ TradeSkillMaster_MailingDB = {
 			"Uldum", -- [2]
 		},
 	},
+	["c@Coronawlime - Proudmoore@goldMailTarget"] = "",
+	["c@Audioteqnica - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @inboxMessages"] = true,
 	["c@Kikobank - Proudmoore@goldMailTarget"] = "",
 	["c@Gulbob - Proudmoore@goldMailTarget"] = "",
+	["c@Nanotube - Uldum@goldKeepAmount"] = 1000000,
+	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
 	["c@Kikoutate - Proudmoore@goldKeepAmount"] = 1000000,
 	["c@Audioteqnica - Proudmoore@goldMailTarget"] = "",
-	["g@ @autoCheck"] = true,
-	["g@ @resendDelay"] = 1,
-	["c@Audioteqnica - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @sendItemsIndividually"] = false,
-	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
-	["c@Kikoutate - Uldum@goldMailTarget"] = "",
-	["g@ @defaultPage"] = 1,
-	["g@ @inboxMessages"] = true,
-	["c@Kikobank - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @defaultMailTab"] = true,
 	["g@ @sendMessages"] = true,
-	["c@Sargosa - Proudmoore@goldKeepAmount"] = 1000000,
-	["g@ @keepMailSpace"] = 0,
-	["g@ @openMailSound"] = "TSM_NO_SOUND",
-	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
 	["_currentProfile"] = {
-		["Kikoutate - Proudmoore"] = "Default",
 		["Sargosa - Proudmoore"] = "Default",
-		["Audioteqnica - Proudmoore"] = "Default",
-		["Guayaki - Proudmoore"] = "Default",
-		["Transmetro - Proudmoore"] = "Default",
 		["Kikoutate - Uldum"] = "Default",
+		["Nanotube - Uldum"] = "Default",
+		["Kikoutate - Proudmoore"] = "Default",
+		["Nanotube - Proudmoore"] = "Default",
+		["Antihistamin - Proudmoore"] = "Default",
+		["Coronawlime - Proudmoore"] = "Default",
 		["Gulbob - Proudmoore"] = "Default",
+		["Transmetro - Proudmoore"] = "Default",
+		["Guayaki - Proudmoore"] = "Default",
+		["Audioteqnica - Proudmoore"] = "Default",
 		["Kikobank - Proudmoore"] = "Default",
 	},
+	["g@ @resendDelay"] = 1,
+	["g@ @autoCheck"] = true,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["g@ @defaultMailTab"] = true,
+	["c@Kikoutate - Uldum@goldMailTarget"] = "",
+	["g@ @defaultPage"] = 1,
+	["c@Antihistamin - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Kikobank - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Guayaki - Proudmoore@goldMailTarget"] = "",
+	["g@ @keepMailSpace"] = 0,
+	["c@Coronawlime - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @sendItemsIndividually"] = false,
+	["c@Kikoutate - Proudmoore@goldMailTarget"] = "",
+	["c@Nanotube - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Antihistamin - Proudmoore@goldMailTarget"] = "",
 	["f@Horde - Uldum@deMailTarget"] = "",
 }

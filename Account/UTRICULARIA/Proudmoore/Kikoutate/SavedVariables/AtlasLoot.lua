@@ -1,18 +1,19 @@
 
 AtlasLootCharDB = {
-	["__addonrevision"] = 4325,
-	["GUI"] = {
-		["selected"] = {
-			"AtlasLoot_Factions", -- [1]
-			"LEGIONFACTIONS", -- [2]
-			3, -- [3]
-			1, -- [4]
-			0, -- [5]
+	["MiniMapButton"] = {
+		["point"] = {
+			"CENTER", -- [1]
+			nil, -- [2]
+			"CENTER", -- [3]
+			-47.8369026184082, -- [4]
+			64.1220016479492, -- [5]
 		},
+	},
+	["QuickLootFrame"] = {
 		["point"] = {
 			[3] = "CENTER",
-			[4] = 248.000152587891,
-			[5] = 110.999938964844,
+			[4] = 2.50001859664917,
+			[5] = -5.83330392837524,
 		},
 	},
 	["SetViewFrame"] = {
@@ -22,13 +23,19 @@ AtlasLootCharDB = {
 			[5] = 18.000036239624,
 		},
 	},
-	["MiniMapButton"] = {
+	["__addonrevision"] = 4325,
+	["GUI"] = {
+		["selected"] = {
+			"AtlasLoot_Collections", -- [1]
+			"TIERSETS", -- [2]
+			18, -- [3]
+			3, -- [4]
+			0, -- [5]
+		},
 		["point"] = {
-			"CENTER", -- [1]
-			nil, -- [2]
-			"CENTER", -- [3]
-			-47.8369026184082, -- [4]
-			64.1220016479492, -- [5]
+			[3] = "CENTER",
+			[4] = 248.000152587891,
+			[5] = 110.999938964844,
 		},
 	},
 }

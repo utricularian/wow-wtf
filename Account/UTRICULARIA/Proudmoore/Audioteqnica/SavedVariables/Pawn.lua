@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0111,
+	["LastVersion"] = 2.0115,
 	["LastPlayerFullName"] = "Audioteqnica-Proudmoore",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
